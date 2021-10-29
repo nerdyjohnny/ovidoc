@@ -25,7 +25,7 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 
 .. important:: Tempbans issues due to a death is non-appealable unless you are killed due to someone breaking rules. Please included this in the ban request and how many lives you had before encountering the rule breaker.
 
-Ban appeals can be submitted at [http://discord.gg/Erg3fCV7zh](http://discord.gg/Erg3fCV7zh) in the #support  channel.
+.. appeals:: Ban appeals can be submitted at [http://discord.gg/Erg3fCV7zh](http://discord.gg/Erg3fCV7zh) in the #support  channel.
 
 Commands
 ----------------
@@ -35,7 +35,7 @@ The following are commands that you can use in the server to help you around the
 Essentials
 =====================
 
-::/help:: - Views a list of available commands.
+.. highlight:: /help - Views a list of available commands.
 
 `/rules` - Views the rules.
 
