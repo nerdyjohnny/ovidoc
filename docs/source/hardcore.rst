@@ -83,6 +83,8 @@ Essentials
 
 ``/mail`` - Intra-player, intra-server mail.
 
+``/msg`` - DM's a player.
+
 ``/back`` - Teleports you back to your previous location prior to tp/warp
 /spawn.
 
