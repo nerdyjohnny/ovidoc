@@ -23,7 +23,7 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 8. No using `/ci` or `/clearinventory` in combat or raids.
 9. Use common sense.
 
-Tempbans issues due to a death is non-appealable unless you are killed due to someone breaking rules. Please included this in the ban request and how many lives you had before encountering the rule breaker.
+.. important:: Tempbans issues due to a death is non-appealable unless you are killed due to someone breaking rules. Please included this in the ban request and how many lives you had before encountering the rule breaker.
 
 Ban appeals can be submitted at [http://discord.gg/Erg3fCV7zh](http://discord.gg/Erg3fCV7zh) in the #support  channel.
 
@@ -32,6 +32,8 @@ Commands
 
 The following are commands that you can use in the server to help you around the server. Some commands are different from the other servers.
 
+Essentials
+=====================
 
 `/help` - Views a list of available commands.
 
@@ -89,7 +91,8 @@ The following are commands that you can use in the server to help you around the
 `/tpaccept` - Accepts a /tpa or /tpahere request.
 
 
-
+Augmented Hardcore
+=====================
 `/lifeparts` - Displays how many life parts you currently own
 
 `/deathbans` or `/deathbans <player>` - Displays yours or a players previous death bans.
