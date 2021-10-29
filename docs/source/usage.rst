@@ -8,8 +8,8 @@ hcmc.nerdyjohnny.com
 Rules
 ------------
 
-.. TIP::
-A quick link to the rules can be obtained in-game by doing `/rules`
+.. TIP:: A quick link to the rules can be obtained in-game by doing `/rules`
+
 
 As much we want this to be a lawless land like in DayZ, there is still some ground rules that are required.
 
