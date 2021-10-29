@@ -33,7 +33,7 @@ Commands
 The following are commands that you can use in the server to help you around the server. Some commands are different from the other servers.
 
 Essentials
-=====================
+^^^^^^^^^^^^^^^^^^^^^
 
 ``/help`` - Views a list of available commands.
 
@@ -92,12 +92,12 @@ Essentials
 
 
 Augmented Hardcore
-=====================
+^^^^^^^^^^^^^^^^^^
 ``/lifeparts`` - Displays how many life parts you currently own
 
-``/deathbans`` or ``/deathbans <player>` - Displays yours or a players previous death bans.
+``/deathbans`` or ``/deathbans <player>`` - Displays yours or a players previous death bans.
 
-``/revive <player>` - Gives one of your lives to another player.
+``/revive <player>`` - Gives one of your lives to another player.
 
 ``/nextrevive`` - Check how much cooldown time is left on the revive command.
 
