@@ -35,7 +35,7 @@ The following are commands that you can use in the server to help you around the
 Essentials
 =====================
 
-`/help` - Views a list of available commands.
+::/help:: - Views a list of available commands.
 
 `/rules` - Views the rules.
 
