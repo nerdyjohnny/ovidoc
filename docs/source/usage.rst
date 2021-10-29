@@ -69,9 +69,9 @@ Essentials
 
 ``/sethome`` - Places a personal teleport location.
 
-``/remhome <name>` - Deletes a personal teleport location.
+``/remhome <name>`` - Deletes a personal teleport location.
 
-``/tpa <player>` - Sends a player a request for you to teleport to them.
+``/tpa <player>`` - Sends a player a request for you to teleport to them.
 
 ``/me`` - Describes an action in the context of the player.
 
