@@ -1,7 +1,7 @@
 Welcome to Oviivae's Community Minecraft!
 ===================================
 
-Here you can find out all the info needed for the mincraft servers
+Here you can find out all the info needed for the mincraft servers from rules, commands, lore, and tips!
 
 
 .. note:: This project is under active development.
