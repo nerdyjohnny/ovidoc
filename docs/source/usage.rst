@@ -24,23 +24,78 @@ Tempbans issues due to a death is non-appealable unless you are killed due to so
 
 Ban appeals can be submitted at [http://discord.gg/Erg3fCV7zh](http://discord.gg/Erg3fCV7zh) in the #support  channel.
 
-Creating recipes
+Commands
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+The following are commands that you can use in the server to help you around the server. Some commands are different from the other servers.
 
-.. autofunction:: lumache.get_random_ingredients
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+`/help` - Views a list of available commands.
 
-.. autoexception:: lumache.InvalidKindError
+`/rules` - Views the rules.
 
-For example:
+`/nick` - Change your nickname.
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+`/getpos` - Get your current coordinates.
+
+`/tpahere <player>` - Requests that the specified-player teleport to you.
+
+`/clearinventory` or `/ci` - Clears all items from your inventory. 
+
+`/afk` - Marks you away from keyboard.
+
+`/editsign` - Edits the sign you are looking at.
+
+`/time` Displays the current world time.
+
+`/realname` - Displays the username of a user based on nick.
+
+`/hat` - Sets the item in your hand as a hat.
+
+`/home` - Teleports you home/
+
+`/motd` - Views the Message Of The Day.
+
+`/near` - Lists the players near by you.
+
+`/list` - Lists all the players online.
+
+`/suicide` - Terminates your current life.
+
+`/sethome` - Places a personal teleport location.
+
+`/remhome <name>` - Deletes a personal teleport location.
+
+`/tpa <player>` - Sends a player a request for you to teleport to them.
+
+`/me` - Describes an action in the context of the player.
+
+`/spawn` - Teleports you to spawn
+
+`/tpacancel` - Cancels any /tpa or /tpahere requests
+
+`/book` - Allows reopening and editing of sealed books.
+
+`/mail` - Intra-player, intra-server mail.
+
+`/back` - Teleports you back to your previous location prior to tp/warp
+/spawn.
+
+`/tpdeny` - Denies a /tpa or /tpahere request.
+
+`/tpaccept` - Accepts a /tpa or /tpahere request.
+
+
+
+`/lifeparts` - Displays how many life parts you currently own
+
+`/deathbans` or `/deathbans <player>` - Displays yours or a players previous death bans.
+
+`/revive <player>` - Gives one of your lives to another player.
+
+`/nextrevive` - Check how much cooldown time is left on the revive command.
+
+`/nextlifepart` - Displays when you will receive your next life part.
+
+`/nextnaxhealth` - Displays when you will recieve your next max health increase.
 
