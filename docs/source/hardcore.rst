@@ -6,7 +6,7 @@ hcmc.nerdyjohnny.com
 .. _rules:
 
 Rules
-------------
+-----------
 
 .. TIP:: A quick link to the rules can be obtained in-game by doing ``/rules``
 
