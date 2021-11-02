@@ -27,11 +27,33 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 7. Building/Basing is not allowed near spawn areas, against WorldGuard boundries or in Out of Bounds area (i.e. Nether Roof).
 8. No using teleports/warps/ or ``/home`` in combat.
 9. No using ``/ci`` or ``/clearinventory`` in combat or raids.
-10. Use common sense.
+10. Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech will be tolerated.
+11. No spam or self-promotion (server invites, advertisements, etc) without permission from a staff member. This includes DMing fellow members.
+12. No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content
+13. Use common sense.
 
 .. important:: Tempbans issues due to a death is non-appealable unless you are killed due to someone breaking rules. Please included this in the ban request and how many lives you had before encountering the rule breaker.
 
-.. note:: Ban appeals can be submitted at http://discord.gg/Erg3fCV7zh in the #support  channel.
+.. note:: Ban appeals and request can be submitted at http://discord.gg/Erg3fCV7zh in the #support  channel.
+
+
+Staff Rules
+^^^^^^^^^^^
+
+Staff is held to a standard and expected to follow the rules in order to enforce them. Staff are required to follow these extra set of rules in order to maintain moderation powers on the server.
+
+1. Gamemode must be set to survival unless performing moderation tasks.
+2. No using creative or ``/give`` to supply self for survival gameplay.
+3. No using ``/tp`` to obtain information on players outside of moderation. (i.e. No teleporting to players to obtaining coords to their base.)
+4. No using ``/fly`` or ``/god`` during survival gameplay.
+5. No using any commands that normal players don't have access to that creates an unfair advantage. 
+6. Staff is encouraged to use ``/v`` or ``/gm spectator`` while spectating players in the moderation setting.
+7. No favoritism towards players. All players should be treated equally and fairly.
+8. Respond to requests for service via the Tickets spawned from #support in a timely manner.
+9. Use common sense.
+
+.. important:: If you see a staff member breaking any of these rules, open a Staff Complaint in #support in the discord. http://discord.gg/Erg3fCV7zh 
+
 
 Commands
 ----------------
