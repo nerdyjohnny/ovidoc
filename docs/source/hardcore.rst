@@ -20,6 +20,7 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 3. Raiding is allowed
 4. Griefing is only allowed in the sense of raiding. You are allowed to break doors or windows to gain entry into a base. If the base is concealed and windows/doors are not easily accessible, raiders may break up to two blocks on a wall, or freely break blocks until it allows them access to the windows/doors.
 .. note:: You can hide your loot, but it should be accessable in a raid (i.e. No using glitches to hide the loot or make unbreakable blocks.)
+
 5. Spawn camping is not allowed.
 6. No setting TPs in or near other player's bases with the intent to raid.
 7. Building/Basing is not allowed near spawn areas, against WorldGuard boundries or in Out of Bounds area (i.e. Nether Roof).
