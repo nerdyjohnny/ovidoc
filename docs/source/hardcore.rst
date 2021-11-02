@@ -36,6 +36,22 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 
 .. note:: Ban appeals and request can be submitted at http://discord.gg/Erg3fCV7zh in the #support  channel.
 
+Staff Rules
+^^^^^^^^^^^
+
+Staff is held to a standard and expected to follow the rules in order to enforce them. Staff are required to follow these extra set of rules in order to maintain moderation powers on the server.
+
+1. Gamemode must be set to survival unless performing moderation tasks.
+2. No using creative or ``/give`` to supply self for survival gameplay.
+3. No using ``/tp`` to obtain information on players outside of moderation. (i.e. No teleporting to players to obtaining coords to their base.)
+4. No using ``/fly`` or ``/god`` during survival gameplay.
+5. No using any commands that normal players don't have access to that creates an unfair advantage. 
+6. Staff is encouraged to use ``/v`` or ``/gm spectator`` while spectating players in the moderation setting.
+7. No favoritism towards players. All players should be treated equally and fairly.
+8. Respond to requests for service via the Tickets spawned from #support in a timely manner.
+9. Use common sense.
+
+.. important:: If you see a staff member breaking any of these rules, open a Staff Complaint in #support in the discord. http://discord.gg/Erg3fCV7zh 
 
 
 
