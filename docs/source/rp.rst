@@ -1,9 +1,6 @@
 Roleplay
-===
+=====
 
-.. autosummary::
-   :toctree: generated
+mc.nerdyjohnny.com
 
-Coming Soon
-
-   lumache
+.. note:: Coming soon. This project is under active development. 
