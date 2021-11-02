@@ -3,6 +3,8 @@ Hardcore
 
 hcmc.nerdyjohnny.com
 
+.. important:: Until we find a new plugin that auto respawns the ender dragon, request a Janitor or Custodian to respawn the dragon.
+
 .. _rules:
 
 Rules
@@ -17,11 +19,13 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 2. Combat logging via mobs or players is not allowed. Combat logging will result in a tempban and a lost of that current life with items.
 3. Raiding is allowed
 4. Griefing is only allowed in the sense of raiding. You are allowed to break doors or windows to gain entry into a base. If the base is concealed and windows/doors are not easily accessible, raiders may break up to two blocks on a wall, or freely break blocks until it allows them access to the windows/doors.
+4. (Clarification) You can hide your loot, but it should be accessable in a raid (i.e. No using glitches to hide the loot or make unbreakable blocks.)
 5. Spawn camping is not allowed.
-6. Building/Basing is not allowed near spawn areas or against WorldGuard boundries.
-7. No using teleports/warps/ or ``/home`` in combat.
-8. No using ``/ci`` or ``/clearinventory`` in combat or raids.
-9. Use common sense.
+6. No setting TPs in or near other player's bases with the intent to raid.
+7. Building/Basing is not allowed near spawn areas, against WorldGuard boundries or in Out of Bounds area (i.e. Nether Roof).
+8. No using teleports/warps/ or ``/home`` in combat.
+9. No using ``/ci`` or ``/clearinventory`` in combat or raids.
+10. Use common sense.
 
 .. important:: Tempbans issues due to a death is non-appealable unless you are killed due to someone breaking rules. Please included this in the ban request and how many lives you had before encountering the rule breaker.
 
