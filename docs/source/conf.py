@@ -7,7 +7,7 @@ copyright = '2021, nerdyjohnny and Oiivae'
 author = 'nerdyjohnny'
 
 release = '0.5'
-version = '0.5.0'
+version = '0.5.5'
 
 # -- General configuration
 
