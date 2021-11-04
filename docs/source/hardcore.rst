@@ -18,7 +18,7 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 1. No using mods/hacks/glitches/modified clients/unfair advantages.
 2. Combat logging via mobs or players is not allowed. Combat logging will result in a tempban and a lost of that current life with items.
 3. Raiding is allowed
-4. Griefing is only allowed in the sense of raiding. You are allowed to break doors or windows to gain entry into a base. If the base is concealed and windows/doors are not easily accessible, raiders may break up to two blocks on a wall, or freely break blocks until it allows them access to the windows/doors.
+4. Griefing is only allowed in the sense of raiding. You are allowed to break doors or windows to gain entry into a base. If the base is concealed and windows/doors are not easily accessible, raiders may tunnel until it allows them access to the windows/doors or into the base.
 
 .. note:: You can hide your loot, but it should be accessable in a raid (i.e. No using glitches to hide the loot or make unbreakable blocks.)
 
