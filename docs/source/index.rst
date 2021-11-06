@@ -13,3 +13,4 @@ Contents
 
    hardcore
    rp
+   safety
