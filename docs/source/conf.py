@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Ovi MC'
+project = 'Oiivae Community'
 copyright = '2021, nerdyjohnny and Oiivae'
 author = 'nerdyjohnny'
 
-release = '0.5'
-version = '0.5.5'
+release = '0.7'
+version = '0.7.0'
 
 # -- General configuration
 
