@@ -1,1 +1,1 @@
-Offical Server Documentation
+Offical Community Documentation
