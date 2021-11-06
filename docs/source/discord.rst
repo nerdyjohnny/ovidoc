@@ -19,7 +19,7 @@ Rule 2
 
 Chain of Esclation
 ----------
-The following is how issues are worked up the chain depending on its severity. This ensures that all issues are handled properly.
+The following is how issues are worked up the chain depending on its severity. We ask that members report any complaints at the lowest end of the chain. This ensures that all issues are handled properly.
 
 Discord/Twitch: ``Janitors < Tenured Janitors (Sr. Mods) < Maintenance (Admin) < Ovi``
 
