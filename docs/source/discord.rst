@@ -21,9 +21,9 @@ Chain of Esclation
 ----------
 The following is how issues are worked up the chain depending on its severity. This ensures that all issues are handled properly.
 
-Discord/Twitch: `` Janitors < Tenured Janitors (Sr. Mods) < Maintenance (Admin) < Ovi ``
+Discord/Twitch: ``Janitors < Tenured Janitors (Sr. Mods) < Maintenance (Admin) < Ovi``
 
-Minecraft (Moderation): `` Janitors < Custodians < Tenured Janitors (Sr. Mods) < Maintenance (Admin) < Ovi ``
+Minecraft (Moderation): ``Janitors < Custodians < Tenured Janitors (Sr. Mods) < Maintenance (Admin) < Ovi``
 
-Minecraft (Technical): `` Custodians < Mantenance (Admin) < Johnny ``
+Minecraft (Technical): ``Custodians < Mantenance (Admin) < Johnny``
 
