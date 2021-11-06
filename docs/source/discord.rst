@@ -7,7 +7,7 @@ Rules
 2. No spam or self-promotion (server invites, advertisements, etc) without permission from a staff member. This includes DMing fellow members.
 3. No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
 4. Do not ping Oiivae!
-5. Use common sense.
+5. **Use common sense.**
 6. If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
 
 Rule Clarifications
