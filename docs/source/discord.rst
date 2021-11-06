@@ -13,13 +13,15 @@ Rules
 Rule Clarifications
 ^^^^^^^^^^
 Rule 2
+
 1. No more than 2 pics or gifs per text. You know what spamming is, dont do it
+
 2. As far as what goes in here, so long as it pertains to the convo it can pass, anything else (such as showing something off or showing a random meme) it will go in their respected channels i.e. memes or media
 
 
 Chain of Esclation
 ----------
-The following is how issues are worked up the chain depending on its severity. We ask that members report any complaints at the lowest end of the chain. This ensures that all issues are handled properly.
+The following is how issues are worked up the chain depending on its severity. **We ask that members report any complaints at the lowest end of the chain.** This ensures that all issues are handled properly.
 
 Discord/Twitch: ``Janitors < Tenured Janitors (Sr. Mods) < Maintenance (Admin) < Ovi``
 
