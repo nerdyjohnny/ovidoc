@@ -11,8 +11,8 @@ Contents
 
 .. toctree::
 
-   staff
    discord
    hardcore
    rp
    safety
+   staff
