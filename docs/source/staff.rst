@@ -80,8 +80,11 @@ hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local aus
 `https://www.twitch.tv/nutzo_ <https://www.twitch.tv/nutzo_>`_
 
 
-NyomiNovaks (also a Janitor)
+NyomiNovaks
 ''''''
+
+.. note:: Nomi is also a janitor with her primary focus being a Custodian.
+
 .. image:: icons/custodian.png 
 .. image:: icons/janitor.png
 Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
