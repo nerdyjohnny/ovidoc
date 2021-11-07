@@ -2,6 +2,8 @@ Staff
 ========
 Welcome! Here you can read a bit about the staff here.
 
+.. note:: This page is currently under development and will be updated daily until everyone has their own written bio.
+
 Overseers
 ````````
 The bigshots
