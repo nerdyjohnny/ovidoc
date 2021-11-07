@@ -61,7 +61,8 @@ https://www.twitch.tv/guacugwazii
 Lunarese
 ''''''
 .. image:: icons/srmod.png
-Lunar, the resident disappointed parent
+Howdy I'm Lunarese or Lunar. You can refer to me with whatever :D
+I'm in the EST timezones, you can feel free to ask me about anything! Remember to be kind to each other, take care and have fun!! 💜
 
 https://www.twitch.tv/lunarese
 
@@ -103,7 +104,7 @@ The frontline moderators!
 bird_partii
 '''''
 .. image:: icons/janitor.png
-Jenna! The resident bird.
+Hi I'm Jenna, I am a mod who live in Atlantic Time (basically one hour before Eastern) and I use they/them pronouns, my dms are open to all in case of anything and make sure to behave... or else :) and have fun
 
 https://www.twitch.tv/bird_partii
 
