@@ -12,7 +12,7 @@ Oiivae
 ''''''
 Ovi, everyones favorite neckogecko
 
-.. image:: icon/ovi.png
+.. image:: icons/ovi.png
 
 https://www.twitch.tv/oiivae
 
