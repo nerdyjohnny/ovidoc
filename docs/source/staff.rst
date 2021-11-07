@@ -31,7 +31,7 @@ The highest people on the moderation foodchain. Mainly focusing on behind-the-sc
 nerdyjohnny
 '''''''
 
-.. note:: Johnny oversee the Custodians and majority of the behind-the-scenes
+.. note:: Johnny oversees the Custodians and majority of the behind-the-scenes
 
 .. image:: icons/admin.png
 .. image:: icons/custodian.png 
