@@ -22,6 +22,11 @@ Rule 2
 Chain of Esclation
 ----------
 The following is how issues are worked up the chain depending on its severity. **We ask that members report any complaints at the lowest end of the chain.** This ensures that all issues are handled properly.
+.. image:: icons/janitor.png
+.. image:: icons/custodian.png
+.. image:: icons/srmod.png
+.. image:: icons/admin.png
+.. image:: icons/ovi.png
 
 Discord/Twitch: ``Janitors < Tenured Janitors (Sr. Mods) < Maintenance (Admin) < Ovi``
 
