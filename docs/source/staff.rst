@@ -8,9 +8,10 @@ Overseers
 ````````
 The bigshots
 
-Oiivae .. image:: icon/ovi.png
+Oiivae
 ''''''
 Ovi, everyones favorite neckogecko
+.. image:: icon/ovi.png
 
 https://www.twitch.tv/oiivae
 
