@@ -18,6 +18,7 @@ https://www.twitch.tv/oiivae
 
 Sandhands
 '''''''
+.. image:: icons/sandhands.png
 Attorney-at-Sand
 
 https://www.twitch.tv/
