@@ -63,7 +63,7 @@ Lunarese
 .. image:: icons/srmod.png
 Lunar, the resident disappointed parent
 
-https://www.twitch.tv/
+https://www.twitch.tv/lunarese
 
 sweetkitsu
 '''''''
