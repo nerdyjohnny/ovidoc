@@ -25,7 +25,7 @@ The highest people on the moderation foodchain. Mainly focusing on behind-the-sc
 
 nerdyjohnny
 '''''''
-Johnny, 23, the nerd who trys his best at paramedicine. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega throne in her side and make streaming hell.
+Johnny, 23, the nerd who trys his best at paramedicine. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
 https://www.twitch.tv/nerdyjohnny
 
@@ -57,6 +57,37 @@ sweetkitsu
 Kitt, its just Kitt.
 
 https://www.twitch.tv/sweetkitsu
+
+Custodians (MC)
+```````
+These are moderators whose primary focus is the minecraft servers.
+
+NutZo_
+''''''
+Kia, the resident Aussie.
+
+https://www.twitch.tv/nutzo_
+
+NyomiNovaks
+''''''
+Nomi, the resident normie.
+
+https://www.twitch.tv/nominovaks
+
+ProxyComics
+'''''
+Prox, its just Prox.
+
+https://www.twitch.tv/
+
+Jainitors
+```````
+The frontline moderators! 
+
+bird_partii
+'''''
+Jenna! The resident bird.
+https://www.twitch.tv/bird_partii
 
 
 
