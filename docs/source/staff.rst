@@ -117,7 +117,7 @@ https://www.twitch.tv/yaluii
 starfr3nzy
 ''''''
 .. image:: icons/janitor.png
-Star, your local mountain cryptid.
+goooood morning campers my names star (she/her), im chilling in est, and i really enjoy la croix, please send me a dm if you like la croix they all think I’m crazy please tell me someone likes la croix please plea
 
 https://www.twitch.tv/starfr3nzy
 
