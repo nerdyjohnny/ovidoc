@@ -30,7 +30,11 @@ The highest people on the moderation foodchain. Mainly focusing on behind-the-sc
 
 nerdyjohnny
 '''''''
+
+.. note:: Johnny oversee the Custodians and majority of the behind-the-scenes
+
 .. image:: icons/admin.png
+.. image:: icons/custodian.png 
 Johnny, 23, the nerd who trys his best at paramedicine. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
 https://www.twitch.tv/nerdyjohnny
