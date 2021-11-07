@@ -22,6 +22,7 @@ https://www.twitch.tv/
 Maintainance (Admins)
 ```````
 The highest people on the moderation foodchain. Mainly focusing on behind-the-scene stuff but still maintains a solid hand in moderation.
+
 nerdyjohnny
 '''''''
 Johnny, 23, the nerd who trys his best at paramedicine. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega throne in her side and make streaming hell.
