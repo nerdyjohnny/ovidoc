@@ -21,7 +21,7 @@ Sandhands
 .. image:: icons/sandhands.png
 Attorney-at-Sand
 
-https://www.twitch.tv/
+https://www.twitch.tv/mrsandhands
 
 
 Maintainance (Admins)
