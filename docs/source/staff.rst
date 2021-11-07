@@ -6,7 +6,7 @@ Overseers
 ````````
 The bigshots
 
-Oviivae
+Oiivae
 ''''''
 Ovi, everyones favorite neckogecko
 
