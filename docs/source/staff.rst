@@ -62,15 +62,16 @@ Custodians (MC)
 ```````
 These are moderators whose primary focus is the minecraft servers.
 
-NutZo_
+NutZo
 ''''''
 Kia, the resident Aussie.
 
-https://www.twitch.tv/nutzo_
+`https://www.twitch.tv/nutzo_ <https://www.twitch.tv/nutzo_>`_
 
-NyomiNovaks
+
+NyomiNovaks (also a Janitor)
 ''''''
-Nomi, the resident normie.
+Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
 
 https://www.twitch.tv/nominovaks
 
@@ -87,7 +88,14 @@ The frontline moderators!
 bird_partii
 '''''
 Jenna! The resident bird.
+
 https://www.twitch.tv/bird_partii
+
+Yaluii
+''''''
+Heya! I'm Robyn (she/they pronouns) and I am a moderator who lives in CET timezones! Most of my socials are Yaluii, and I mostly lurk around. If you have any questions feel free to dm me, I'm usually awake when all the others aren't. Hope you enjoy your time with us!
+
+https://www.twitch.tv/yaluii
 
 
 
