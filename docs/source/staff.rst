@@ -64,7 +64,7 @@ These are moderators whose primary focus is the minecraft servers.
 
 NutZo
 ''''''
-Kia, the resident Aussie.
+hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local australian lurking in AEST . I’m usually around quite a bit given my time zone and bad sleep schedule. I’m always available for any questions and always happy to help if I can! Seeya around ❤️
 
 `https://www.twitch.tv/nutzo_ <https://www.twitch.tv/nutzo_>`_
 
@@ -75,11 +75,6 @@ Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm m
 
 https://www.twitch.tv/nominovaks
 
-ProxyComics
-'''''
-Prox, its just Prox.
-
-https://www.twitch.tv/
 
 Jainitors
 ```````
