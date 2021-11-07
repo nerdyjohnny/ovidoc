@@ -8,7 +8,7 @@ Overseers
 ````````
 The bigshots
 
-Oiivae
+Oiivae ..image:: ovi.png
 ''''''
 Ovi, everyones favorite neckogecko
 
