@@ -10,9 +10,9 @@ The bigshots
 
 Oiivae
 ''''''
-Ovi, everyones favorite neckogecko
-
 .. image:: icons/ovi.png
+
+Ovi, everyones favorite neckogecko
 
 https://www.twitch.tv/oiivae
 
