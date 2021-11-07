@@ -11,6 +11,7 @@ Contents
 
 .. toctree::
 
+   staff
    discord
    hardcore
    rp
