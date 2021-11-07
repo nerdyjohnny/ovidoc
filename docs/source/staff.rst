@@ -35,7 +35,7 @@ nerdyjohnny
 
 .. image:: icons/admin.png
 .. image:: icons/custodian.png 
-Johnny, 23, the nerd who trys his best at paramedicine. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
+Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
 https://www.twitch.tv/nerdyjohnny
 
