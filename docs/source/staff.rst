@@ -29,9 +29,9 @@ Johnny, 23, the nerd who trys his best at paramedicine. Streams sometimes and ha
 
 https://www.twitch.tv/nerdyjohnny
 
-MJB
+thematbrown
 '''''
-Matt, hes a nerd.
+Matt (MJB), hes a nerd.
 
 https://www.twitch.tv/thematbrown
 
@@ -40,6 +40,23 @@ Tenured Janitors (Senior Mods)
 ````````
 These are the mods that have more experience and expect to be a in a supervisory role.
 
+GuacuGwazii
+''''''
+Gwazi, the resident shitposter.
+
+https://www.twitch.tv/guacugwazii
+
+Lunarese
+''''''
+Lunar, the resident disappointed parent
+
+https://www.twitch.tv/
+
+sweetkitsu
+'''''''
+Kitt, its just Kitt.
+
+https://www.twitch.tv/sweetkitsu
 
 
 
