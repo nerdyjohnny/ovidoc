@@ -97,7 +97,23 @@ Heya! I'm Robyn (she/they pronouns) and I am a moderator who lives in CET timezo
 
 https://www.twitch.tv/yaluii
 
+starfr3nzy
+''''''
+Star, your local mountain cryptid.
 
+https://www.twitch.tv/starfr3nzy
+
+Merp
+''''''
+Its Merp
+
+https://www.twitch.tv/
+
+ScarDaPyro
+''''''
+Scar, the resident pyromaniac
+
+https://www.twitch.tv/scardapyro
 
 
 
