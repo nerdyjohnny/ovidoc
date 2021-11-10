@@ -138,6 +138,7 @@ Here are staff that no longer apart of the team but still considered family.
 
 Merp
 ''''''
+.. image:: icons/retired.png 
 .. image:: icons/janitor.png
 Its Merp
 
@@ -147,6 +148,7 @@ Retired: Mod Team Restructure Novmember 2021
 
 Saranary
 ''''''
+.. image:: icons/retired.png
 .. image:: icons/janitor.png
 Sara, Resident Horse Girl
 
