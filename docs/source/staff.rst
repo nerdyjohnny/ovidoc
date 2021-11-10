@@ -11,7 +11,7 @@ The bigshot cryptids
 Oiivae
 ''''''
 .. image:: icons/ovi.png
-:alt: Broadcaster
+   :alt: Broadcaster
 
 Ovi, everyones favorite keter-classed neckogecko
 
