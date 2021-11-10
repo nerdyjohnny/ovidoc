@@ -146,12 +146,3 @@ https://www.twitch.tv/
 
 Retired: Mod Team Restructure Novmember 2021
 
-Saranary
-''''''
-.. image:: icons/retired.png
-.. image:: icons/janitor.png
-Sara, Resident Horse Girl
-
-https://www.twitch.tv/saranary
-
-Retired: Mod Team Restructure Novmember 2021
