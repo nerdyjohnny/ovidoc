@@ -6,7 +6,7 @@ Welcome! Here you can read a bit about the staff here.
 
 Site Council 
 ````````
-The bigshots
+The bigshot cryptids
 
 Oiivae
 ''''''
