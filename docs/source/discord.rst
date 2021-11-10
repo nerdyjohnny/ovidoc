@@ -9,6 +9,7 @@ Rules
 4. Do not ping Oiivae!
 5. **Use common sense.**
 6. If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
+7. **All users must abide by Discord and Twitch Terms of Service**
 
 Rule Clarifications
 ^^^^^^^^^^
