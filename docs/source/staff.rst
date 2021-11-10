@@ -20,7 +20,7 @@ https://www.twitch.tv/oiivae
 Sandhands
 '''''''
 .. image:: icons/sandhands.png
-:alt: Attorney
+    :alt: Attorney
 
 Attorney-at-Sand
 
@@ -33,11 +33,11 @@ Most senior moderator. Manages the moderation team and behind the scenes stuff
 nerdyjohnny
 '''''''
 .. image:: icons/sitedirector.png
-:alt: Site Director
+    :alt: Site Director
 .. image:: icons/admin.png
-:alt: Site Manager
+    :alt: Site Manager
 .. image:: icons/custodian.png 
-:alt: Maintenance
+   :alt: Maintenance
 
 Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
@@ -51,7 +51,7 @@ Senior moderators that helps with behind the scenes stuff and techincal tasks.
 thematbrown
 '''''
 .. image:: icons/admin.png
-:alt: Site Manager
+   :alt: Site Manager
 
 Howdy, the names Matt (I also go by MJB or MJ). I'm your local Texan IT nerd. I am not as active but I have discord open almost all the time so if you need to reach out to me, just shoot me a DM or ping me.
 
@@ -65,7 +65,7 @@ These are the mods that have more experience and expect to be a in a supervisory
 GuacuGwazii
 ''''''
 .. image:: icons/srmod.png
-:alt: Senior Agent
+   :alt: Senior Agent
 
 Gwazi, the resident shitposter.
 
@@ -74,7 +74,7 @@ https://www.twitch.tv/guacugwazii
 Lunarese
 ''''''
 .. image:: icons/srmod.png
-:alt: Senior Agent
+   :alt: Senior Agent
 
 Howdy I'm Lunarese or Lunar. You can refer to me with whatever :D
 I'm in the EST timezones, you can feel free to ask me about anything! Remember to be kind to each other, take care and have fun!! 💜
@@ -84,7 +84,7 @@ https://www.twitch.tv/lunarese
 sweetkitsu
 '''''''
 .. image:: icons/srmod.png
-:alt: Senior Agent
+   :alt: Senior Agent
 
 Kitt, its just Kitt.
 
@@ -97,7 +97,7 @@ These are moderators whose primary focus is the minecraft servers.
 NuTzy
 ''''''
 .. image:: icons/custodian.png
-:alt: Maintenance
+   :alt: Maintenance
 
 hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local australian lurking in AEST . I’m usually around quite a bit given my time zone and bad sleep schedule. I’m always available for any questions and always happy to help if I can! Seeya around ❤️
 
@@ -110,9 +110,9 @@ NomiNovaks
 .. note:: Nomi is also a janitor with her primary focus being a Maintenance member.
 
 .. image:: icons/custodian.png
-:alt: Maintenance
+   :alt: Maintenance
 .. image:: icons/janitor.png
-:alt: Field Agent
+   :alt: Field Agent
 
 Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
 
@@ -126,7 +126,7 @@ The frontline moderators!
 bird_partii
 '''''
 .. image:: icons/janitor.png
-:alt: Field Agent
+   :alt: Field Agent
 
 Hi I'm Jenna, I am a mod who live in Atlantic Time (basically one hour before Eastern) and I use they/them pronouns, my dms are open to all in case of anything and make sure to behave... or else :) and have fun
 
@@ -135,7 +135,7 @@ https://www.twitch.tv/bird_partii
 Yaluii
 ''''''
 .. image:: icons/janitor.png
-:alt: Field Agent
+   :alt: Field Agent
 
 Heya! I'm Robyn (she/they pronouns) and I am a moderator who lives in CET timezones! Most of my socials are Yaluii, and I mostly lurk around. If you have any questions feel free to dm me, I'm usually awake when all the others aren't. Hope you enjoy your time with us!
 
@@ -144,7 +144,7 @@ https://www.twitch.tv/yaluii
 starfr3nzy
 ''''''
 .. image:: icons/janitor.png
-:alt: Field Agent
+   :alt: Field Agent
 
 goooood morning campers my names star (she/her), im chilling in est, and i really enjoy la croix, please send me a dm if you like la croix they all think I’m crazy please tell me someone likes la croix please plea
 
@@ -154,7 +154,7 @@ https://www.twitch.tv/starfr3nzy
 ScarDaPyro
 ''''''
 .. image:: icons/janitor.png
-:alt: Field Agent
+   :alt: Field Agent
 
 Scar, the resident pyromaniac
 
@@ -169,9 +169,9 @@ Here are staff that no longer apart of the team but still considered family.
 Merp
 ''''''
 .. image:: icons/retired.png 
-:alt: Retired Staff
+   :alt: Retired Staff
 .. image:: icons/janitor.png
-:alt: Field Agent
+   :alt: Field Agent
 
 Its Merp
 
