@@ -4,7 +4,7 @@ Welcome! Here you can read a bit about the staff here.
 
 .. note:: This page is currently under development and will be updated daily until everyone has their own written bio.
 
-Overseers
+Site Council 
 ````````
 The bigshots
 
@@ -23,21 +23,23 @@ Attorney-at-Sand
 
 https://www.twitch.tv/mrsandhands
 
-
-Maintainance (Admins)
-```````
-The highest people on the moderation foodchain. Mainly focusing on behind-the-scene stuff but still maintains a solid hand in moderation.
+Site Director (Senior Admin)
+``````
+Most senior moderator. Manages the moderation team and behind the scenes stuff
 
 nerdyjohnny
 '''''''
-
-.. note:: Johnny oversees the Custodians and majority of the behind-the-scenes
-
+.. image:: icons/sitedirector.png
 .. image:: icons/admin.png
 .. image:: icons/custodian.png 
 Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
 https://www.twitch.tv/nerdyjohnny
+
+
+Maintainance (Admins)
+```````
+Senior moderatorss that helps with behind the scenes stuff and techincal tasks.
 
 thematbrown
 '''''
