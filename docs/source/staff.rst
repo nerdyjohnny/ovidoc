@@ -49,7 +49,7 @@ Howdy, the names Matt (I also go by MJB or MJ). I'm your local Texan IT nerd. I 
 https://www.twitch.tv/thematbrown
 
 
-Tenured Janitors (Senior Mods)
+Tenured Janitors (Senior Moderators)
 ````````
 These are the mods that have more experience and expect to be a in a supervisory role.
 
@@ -99,7 +99,7 @@ Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm m
 https://www.twitch.tv/nominovaks
 
 
-Jainitors
+Jainitors (Moderators)
 ```````
 The frontline moderators! 
 
