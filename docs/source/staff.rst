@@ -122,12 +122,6 @@ goooood morning campers my names star (she/her), im chilling in est, and i reall
 
 https://www.twitch.tv/starfr3nzy
 
-Merp
-''''''
-.. image:: icons/janitor.png
-Its Merp
-
-https://www.twitch.tv/
 
 ScarDaPyro
 ''''''
@@ -138,5 +132,22 @@ https://www.twitch.tv/scardapyro
 
 
 
+Retired Staff
+````````````
+Here are staff that no longer apart of the team but still considered family.
 
+Merp
+''''''
+.. image:: icons/janitor.png
+Its Merp
 
+https://www.twitch.tv/
+
+Retired: Mod Team Restructure Novmember 2021
+
+Saranary
+''''''
+.. image:: icons/janitor.png
+Sara, Resident Horse Girl
+
+https://www.twitch.tv/saranary
