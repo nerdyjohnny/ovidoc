@@ -90,7 +90,7 @@ hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local aus
 NyomiNovaks
 ''''''
 
-.. note:: Nomi is also a janitor with her primary focus being a Custodian.
+.. note:: Nomi is also a janitor with her primary focus being a Maintenance member.
 
 .. image:: icons/custodian.png 
 .. image:: icons/janitor.png
