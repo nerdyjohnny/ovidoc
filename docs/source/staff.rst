@@ -4,15 +4,15 @@ Welcome! Here you can read a bit about the staff here.
 
 .. note:: This page is currently under development and will be updated daily until everyone has their own written bio.
 
-Overseers
+Site Council 
 ````````
-The bigshots
+The bigshot cryptids
 
 Oiivae
 ''''''
 .. image:: icons/ovi.png
 
-Ovi, everyones favorite neckogecko
+Ovi, everyones favorite keter-classed neckogecko
 
 https://www.twitch.tv/oiivae
 
@@ -23,21 +23,23 @@ Attorney-at-Sand
 
 https://www.twitch.tv/mrsandhands
 
-
-Maintainance (Admins)
-```````
-The highest people on the moderation foodchain. Mainly focusing on behind-the-scene stuff but still maintains a solid hand in moderation.
+Site Director (Senior Admin)
+``````
+Most senior moderator. Manages the moderation team and behind the scenes stuff
 
 nerdyjohnny
 '''''''
-
-.. note:: Johnny oversees the Custodians and majority of the behind-the-scenes
-
+.. image:: icons/sitedirector.png
 .. image:: icons/admin.png
 .. image:: icons/custodian.png 
 Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
 https://www.twitch.tv/nerdyjohnny
+
+
+Site Manager (Admins)
+```````
+Senior moderators that helps with behind the scenes stuff and techincal tasks.
 
 thematbrown
 '''''
@@ -47,7 +49,7 @@ Howdy, the names Matt (I also go by MJB or MJ). I'm your local Texan IT nerd. I 
 https://www.twitch.tv/thematbrown
 
 
-Tenured Janitors (Senior Mods)
+Senior Agent (Senior Moderators)
 ````````
 These are the mods that have more experience and expect to be a in a supervisory role.
 
@@ -73,7 +75,7 @@ Kitt, its just Kitt.
 
 https://www.twitch.tv/sweetkitsu
 
-Custodians (MC)
+Maintenance (MC)
 ```````
 These are moderators whose primary focus is the minecraft servers.
 
@@ -85,10 +87,10 @@ hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local aus
 `https://www.twitch.tv/nutzo__ <https://www.twitch.tv/nutzo__>`_
 
 
-NyomiNovaks
+NomiNovaks
 ''''''
 
-.. note:: Nomi is also a janitor with her primary focus being a Custodian.
+.. note:: Nomi is also a janitor with her primary focus being a Maintenance member.
 
 .. image:: icons/custodian.png 
 .. image:: icons/janitor.png
@@ -97,7 +99,7 @@ Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm m
 https://www.twitch.tv/nominovaks
 
 
-Jainitors
+Field Agent (Moderators)
 ```````
 The frontline moderators! 
 
@@ -122,12 +124,6 @@ goooood morning campers my names star (she/her), im chilling in est, and i reall
 
 https://www.twitch.tv/starfr3nzy
 
-Merp
-''''''
-.. image:: icons/janitor.png
-Its Merp
-
-https://www.twitch.tv/
 
 ScarDaPyro
 ''''''
@@ -138,5 +134,17 @@ https://www.twitch.tv/scardapyro
 
 
 
+Retired Staff
+````````````
+Here are staff that no longer apart of the team but still considered family.
 
+Merp
+''''''
+.. image:: icons/retired.png 
+.. image:: icons/janitor.png
+Its Merp
+
+https://www.twitch.tv/
+
+Retired: Mod Team Restructure Novmember 2021
 
