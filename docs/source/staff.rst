@@ -42,7 +42,7 @@ https://www.twitch.tv/nerdyjohnny
 thematbrown
 '''''
 .. image:: icons/admin.png
-Matt (MJB), hes a nerd.
+Howdy, the names Matt (I also go by MJB or MJ). I'm your local Texan IT nerd. I am not as active but I have discord open almost all the time so if you need to reach out to me, just shoot me a DM or ping me.
 
 https://www.twitch.tv/thematbrown
 
