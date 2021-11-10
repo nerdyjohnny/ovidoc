@@ -39,7 +39,7 @@ https://www.twitch.tv/nerdyjohnny
 
 Maintainance (Admins)
 ```````
-Senior moderatorss that helps with behind the scenes stuff and techincal tasks.
+Senior moderators that helps with behind the scenes stuff and techincal tasks.
 
 thematbrown
 '''''
