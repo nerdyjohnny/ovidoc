@@ -12,7 +12,7 @@ Oiivae
 ''''''
 .. image:: icons/ovi.png
 
-Ovi, everyones favorite neckogecko
+Ovi, everyones favorite keter-classed neckogecko
 
 https://www.twitch.tv/oiivae
 
