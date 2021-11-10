@@ -37,7 +37,7 @@ Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) w
 https://www.twitch.tv/nerdyjohnny
 
 
-Maintainance (Admins)
+Site Manager (Admins)
 ```````
 Senior moderators that helps with behind the scenes stuff and techincal tasks.
 
@@ -49,7 +49,7 @@ Howdy, the names Matt (I also go by MJB or MJ). I'm your local Texan IT nerd. I 
 https://www.twitch.tv/thematbrown
 
 
-Tenured Janitors (Senior Moderators)
+Senior Agent (Senior Moderators)
 ````````
 These are the mods that have more experience and expect to be a in a supervisory role.
 
@@ -75,7 +75,7 @@ Kitt, its just Kitt.
 
 https://www.twitch.tv/sweetkitsu
 
-Custodians (MC)
+Maintenance (MC)
 ```````
 These are moderators whose primary focus is the minecraft servers.
 
@@ -99,7 +99,7 @@ Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm m
 https://www.twitch.tv/nominovaks
 
 
-Jainitors (Moderators)
+Field Agent (Moderators)
 ```````
 The frontline moderators! 
 
