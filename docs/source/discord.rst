@@ -28,11 +28,12 @@ The following is how issues are worked up the chain depending on its severity. *
 .. image:: icons/custodian.png
 .. image:: icons/srmod.png
 .. image:: icons/admin.png
+.. image:: icons/sitedirector.png
 .. image:: icons/ovi.png
 
-Discord/Twitch: ``Janitors < Tenured Janitors (Sr. Mods) < Maintenance (Admin) < Ovi``
+Discord/Twitch: ``Field Agent < Senior Agent (Sr. Mods) < Site Manager (Admin) < Site Director (Sr. Admin) < Ovi``
 
-Minecraft (Moderation): ``Janitors < Custodians < Tenured Janitors (Sr. Mods) < Maintenance (Admin) < Ovi``
+Minecraft (Moderation): ``Field Agent < Maintenance (MC) < Senior Agent (Sr. Mods) < Site Manager (Admin) < Site Director (Sr. Admin) < Ovi``
 
-Minecraft (Technical): ``Custodians < Mantenance (Admin) < Johnny``
+Minecraft (Technical): ``Maintenance (MC) < Site Manager (Admin) < Site Director (Johnny)``
 
