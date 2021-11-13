@@ -160,5 +160,5 @@ Skitily
 
 i am skit she/her proud cheeseballs owner coolest person ever
 
-Event: The Great Cheseballs Prank of Novemember 2021
+Event: The Cheseball Incident
 
