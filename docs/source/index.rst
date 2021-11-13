@@ -16,3 +16,4 @@ Contents
    rp
    safety
    staff
+   events
