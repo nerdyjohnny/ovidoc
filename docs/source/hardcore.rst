@@ -1,7 +1,7 @@
 Hardcore
 =====
 
-hcmc.nerdyjohnny.com
+hcmc.oiivae.com
 
 .. important:: Until we find a new plugin that auto respawns the ender dragon, request a Janitor or Custodian to respawn the dragon.
 
