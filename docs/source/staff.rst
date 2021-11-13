@@ -161,5 +161,5 @@ Skitily
 
 i am skit she/her proud cheeseballs owner coolest person ever
 
-Event: The Cheseball Incident
+Event: `The Cheseball Incident <https://docs.oiivae.com/en/latest/event.html#the-cheseball-incident>`_
 
