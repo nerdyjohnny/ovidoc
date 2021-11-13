@@ -120,6 +120,7 @@ https://www.twitch.tv/yaluii
 starfr3nzy
 ''''''
 .. image:: icons/janitor.png
+.. image:: icons/cheseballs.png
 goooood morning campers my names star (she/her), im chilling in est, and i really enjoy la croix, please send me a dm if you like la croix they all think I’m crazy please tell me someone likes la croix please plea
 
 https://www.twitch.tv/starfr3nzy
@@ -147,4 +148,17 @@ Its Merp
 https://www.twitch.tv/
 
 Retired: Mod Team Restructure Novmember 2021
+
+
+Special Honors
+````````
+These are members that did something memorable in the community, getting them a special role and a mention here
+
+Skitily
+''''''
+.. image:: icons/cheseballs.png
+
+i am skit she/her proud cheeseballs owner coolest person ever
+
+Event: The Great Cheseballs Prank of Novemember 2021
 
