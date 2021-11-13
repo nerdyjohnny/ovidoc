@@ -56,6 +56,7 @@ These are the mods that have more experience and expect to be a in a supervisory
 GuacuGwazii
 ''''''
 .. image:: icons/srmod.png
+.. image:: icons/cheseballs.png
 Gwazi, the resident shitposter.
 
 https://www.twitch.tv/guacugwazii
