@@ -4,7 +4,7 @@ Moderation Guidelines
 Here is the moderation guidelines. This is to help users understand the way moderation actions are handled in the community.
 
 Chain of Escalation
-----------
+`````
 The following is how issues are worked up the chain depending on its severity. **We ask that members report any complaints at the lowest end of the chain.** This ensures that all issues are handled properly.
 
 .. image:: icons/janitor.png
@@ -24,18 +24,20 @@ Staff Complaints (submitted via #support): ``Senior Agent (Sr. Mods), Site Manag
 
 
 Punishments
-----------
+``````
 
 .. important:: These are the general guidelines for Moderators to follow. Actions taken may very depending on the severity of the situation.
 
 Minor infractions: Deletion of messages, verbal warnings, and written (documented) warnings.
 Major infractions: Mutes/Deafens, kicks, and bans.
 
+Examples
+'''''''
 
 
 
 Ban Appeals
-------------
+``````
 If you are banned from the discord and wish to appeal your ban, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
 
 All other ban appeals are to be open in the #support channel on the discord.
