@@ -15,5 +15,6 @@ Contents
    hardcore
    rp
    safety
+   issues
    staff
    event
