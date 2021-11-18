@@ -43,4 +43,5 @@ Minecraft (Technical): ``Maintenance (MC) < Site Manager (Admin) < Site Director
 Ban Appeals
 ------------
 If you are banned from the discord and wish to appeal your ban, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
+
 All other ban appeals are to be open in the #support channel on the discord.
