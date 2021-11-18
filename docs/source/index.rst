@@ -11,10 +11,10 @@ Contents
 
 .. toctree::
 
+   guidelines
    discord
    hardcore
    rp
    safety
-   guidelines
    staff
    event
