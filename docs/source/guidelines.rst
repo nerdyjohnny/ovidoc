@@ -46,11 +46,13 @@ Hate Speech/Doxxing: Ban
 .. warning:: Some actions may affect the ability to appeal your ban. Depending on the severity of your actions, you may not be able to appeal your ban for a certian amount of time or not be able to appeal at all.
 
 
-Ban Appeals
+Punishment Appeals
 ``````
-Ban appeals can be submitted at http://discord.gg/Erg3fCV7zh in the #support channel.
+Punishment/Ban appeals can be submitted at http://discord.gg/Erg3fCV7zh in the #support channel.
 
 If you are banned from the discord and wish to appeal your ban, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
+
+Please incluse any of your usernames, the reason you were punished, and why you feel like the punishment was unjust or why you feel like you are ready to return to the community.
 
 
 Staff Expectations
