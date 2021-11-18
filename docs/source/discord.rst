@@ -39,3 +39,8 @@ Minecraft (Moderation): ``Field Agent < Maintenance (MC) < Senior Agent (Sr. Mod
 
 Minecraft (Technical): ``Maintenance (MC) < Site Manager (Admin) < Site Director (Johnny)``
 
+
+Ban Appeals
+------------
+If you are banned from the discord and wish to appeal your ban, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
+All other ban appeals are to be open in the #support channel on the discord.
