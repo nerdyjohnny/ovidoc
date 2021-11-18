@@ -1,6 +1,8 @@
 Safety
 =====
 
+.. important:: All ban appeals and requests are to be reported in #support on the discord. If you are banned from the discord, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
+
 Here is tips that you can use to keep yourself safe on Discord and Minecraft.
 
 
