@@ -19,6 +19,8 @@ Rule 2
 
 2. As far as what goes in here, so long as it pertains to the convo it can pass, anything else (such as showing something off or showing a random meme) it will go in their respected channels i.e. memes or media
 
+3. Socials are allowed in your intro.
+
 
 Chain of Escalation
 ----------
