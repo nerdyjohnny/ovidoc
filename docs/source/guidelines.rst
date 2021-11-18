@@ -29,16 +29,21 @@ Punishments
 .. important:: These are the general guidelines for Moderators to follow. Actions taken may very depending on the severity of the situation.
 
 Minor infractions: Deletion of messages, verbal warnings, and written (documented) warnings.
+
 Major infractions: Mutes/Deafens, kicks, and bans.
 
 Examples
 '''''''
 Spamming: Deletion of messages with a verbal warning. Persistant spamming with continue with deletion of messages, written warnings, mute/timeout, or a kick.
+
 Disrepect/Harrassment (Minor): Deletion of the messages with a written warning.
+
 Disrepect/Harrassment (Major/Presistant): Mute/Timeout with written warning or kick/ban.
+
 Hate Speech/Doxxing: Ban
 
-.. warn:: Some actions may affect the ability to appeal your ban. Depending on the severity of your actions, you may not be able to appeal your ban for a certian amount of time or not be able to appeal at all.
+
+.. warning:: Some actions may affect the ability to appeal your ban. Depending on the severity of your actions, you may not be able to appeal your ban for a certian amount of time or not be able to appeal at all.
 
 
 Ban Appeals
