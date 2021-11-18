@@ -26,7 +26,7 @@ Staff Complaints (submitted via #support): ``Senior Agent (Sr. Mods), Site Manag
 Punishments
 ``````
 
-.. important:: These are the general guidelines for Moderators to follow. Actions taken may very depending on the severity of the situation.
+.. note:: These are the general guidelines for Moderators to follow. Actions taken may very depending on the severity of the situation.
 
 Minor infractions: Deletion of messages, verbal warnings, and written (documented) warnings.
 
