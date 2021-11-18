@@ -48,7 +48,7 @@ Hate Speech/Doxxing: Ban
 
 Ban Appeals
 ``````
-Ban appeals and request can be submitted at http://discord.gg/Erg3fCV7zh in the #support channel.
+Ban appeals can be submitted at http://discord.gg/Erg3fCV7zh in the #support channel.
 
 If you are banned from the discord and wish to appeal your ban, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
 
