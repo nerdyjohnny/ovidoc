@@ -20,9 +20,16 @@ Minecraft (Moderation): ``Field Agent or Maintenance (MC) < Senior Agent (Sr. Mo
 
 Minecraft (Technical): ``Maintenance (MC) < Site Manager (Admin) < Site Director (Johnny)``
 
+Staff Complaints: ``Senior Agent (Sr. Mods), Site Manager (Admin), Site Director (Sr. Admin), and Ovi``
+
 
 Punishments
 ----------
+
+.. important:: These are the general guidelines for Moderators to follow. Actions taken may very depending on the severity of the situation.
+
+Minor infractions: Deletion of messages, verbal warnings, and written (documented) warnings.
+Major infractions: Mutes/Deafens, kicks, and bans.
 
 
 
