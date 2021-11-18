@@ -1,7 +1,7 @@
 Moderation Guidelines
 =====
 
-
+Here is the moderation guidelines. This is to help users understand the way moderation actions are handled in the community.
 
 Chain of Escalation
 ----------
@@ -19,6 +19,12 @@ Discord/Twitch: ``Field Agent < Senior Agent (Sr. Mods) < Site Manager (Admin) <
 Minecraft (Moderation): ``Field Agent or Maintenance (MC) < Senior Agent (Sr. Mods) < Site Manager (Admin) < Site Director (Sr. Admin) < Ovi``
 
 Minecraft (Technical): ``Maintenance (MC) < Site Manager (Admin) < Site Director (Johnny)``
+
+
+Punishments
+----------
+
+
 
 
 Ban Appeals
