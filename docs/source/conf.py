@@ -6,8 +6,8 @@ project = 'Oiivae Community'
 copyright = '2021, nerdyjohnny and Oiivae'
 author = 'nerdyjohnny'
 
-release = '0.7'
-version = '0.7.5'
+release = '0.8'
+version = '0.8.0'
 
 # -- General configuration
 
