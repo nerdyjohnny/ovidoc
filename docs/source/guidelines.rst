@@ -52,3 +52,15 @@ If you are banned from the discord and wish to appeal your ban, open a issue at 
 
 All other ban appeals are to be open in the #support channel on the discord.
 
+
+Staff Expectations
+````````
+
+Staff is held to a standard and expected to follow the rules in order to enforce them. Staff are required to follow these extra set of standards in order to maintain moderation powers on the server.
+
+1. No favoritism towards members when performing moderation tasks. All members should be treated equally and fairly.
+2. Respond to requests for service via the Tickets spawned from #support in a timely manner.
+3. No abuse of powers.
+4. Use common sense.
+
+.. important:: If you see a staff member breaking any of these standards, open a Staff Complaint in #support in the discord. http://discord.gg/Erg3fCV7zh 
