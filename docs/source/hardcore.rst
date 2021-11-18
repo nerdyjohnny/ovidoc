@@ -38,6 +38,8 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 
 .. note:: Ban appeals and request can be submitted at http://discord.gg/Erg3fCV7zh in the #support  channel.
 
+.. important:: All ban appeals and requests are to be reported in #support on the discord. If you are banned from the discord, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
+
 Staff Rules
 ^^^^^^^^^^^
 
