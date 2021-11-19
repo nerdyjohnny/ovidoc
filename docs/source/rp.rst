@@ -63,14 +63,15 @@ Towny (Towns/Nations)
 Towny (War)
 '''''''''''''
 
-1. Towns/Nations must have a valid RP reason to go to war. This could be because of a physical conflict, polictial differences, or resources.
-2. Defenses in wilderness are allowed.
-3. Do not siege a town/nation underground if it cane be reasonably sieged above ground.
-4. No underground capping. If the town/nation is underground, this rule is void.
-5. No point feeding (i.e. intentionally feeding points to the enemy.)
-6. No sieging to give town/nation siege immunity.
-7. It must be reasonably easy for others to start a siege on your town/nation.
-8. Do not siege adjacent towns which belong to different nations and with different attacking nations.
+1. The town of Oiiville is immune to seige/war unless approved by Site Director. This is for lore purposes.
+2. Towns/Nations must have a valid RP reason to go to war. This could be because of a physical conflict, polictial differences, or resources.
+3. Defenses in wilderness are allowed.
+4. Do not siege a town/nation underground if it cane be reasonably sieged above ground.
+5. No underground capping. If the town/nation is underground, this rule is void.
+6. No point feeding (i.e. intentionally feeding points to the enemy.)
+7. No sieging to give town/nation siege immunity.
+8. It must be reasonably easy for others to start a siege on your town/nation.
+9. Do not siege adjacent towns which belong to different nations and with different attacking nations.
 
 Staff Rules
 `````````````
