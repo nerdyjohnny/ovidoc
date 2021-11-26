@@ -35,7 +35,7 @@ Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) w
 
 https://www.twitch.tv/nerdyjohnny
 
-.. warning:: Johnny is a paramedic that holds North Carolina credentials and practices under medical direction from a physican and guidelines established by the North Carolina Office of Emergency Medical Services. Johnny is not here to offer medical advice or treatments. Johnny is not here to establish a patient-provider relationship. Please consult your doctor or primary care specialist for non-emergent medical advice or treatment. Please visit an emergency department or call 911 in the event of an medical emergency.
+.. warning:: Johnny is a paramedic that holds North Carolina credentials and practices under medical direction from a physican and guidelines established by physican, his agency, and the North Carolina Office of Emergency Medical Services. Johnny is not here to offer medical advice or treatments. Johnny is not here to establish a patient-provider relationship. Please consult your doctor or primary care specialist for non-emergent medical advice or treatment. Please visit an emergency department or call 911 in the event of an medical emergency.
 
 
 Site Manager (Admins)
