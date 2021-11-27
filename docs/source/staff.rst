@@ -131,7 +131,7 @@ https://www.twitch.tv/starfr3nzy
 ScarDaPyro
 ''''''
 .. image:: icons/janitor.png
-Scar, the resident pyromaniac
+Yo what up! the names Scar! ya internet gamer mod trying to regain motivation to draw and I am in CST time zone area. Though I am not super active on discord, but I do have it open all the time so I can help to the best of my powers if ya ever need something!
 
 https://www.twitch.tv/scardapyro
 
