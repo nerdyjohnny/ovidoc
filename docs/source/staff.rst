@@ -83,6 +83,9 @@ These are moderators whose primary focus is the minecraft servers.
 
 NuTzy
 ''''''
+
+.. note:: NuTzy is the head builder for the MC servers.
+
 .. image:: icons/custodian.png
 hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local australian lurking in AEST . I’m usually around quite a bit given my time zone and bad sleep schedule. I’m always available for any questions and always happy to help if I can! Seeya around ❤️
 
@@ -131,7 +134,7 @@ https://www.twitch.tv/starfr3nzy
 ScarDaPyro
 ''''''
 .. image:: icons/janitor.png
-Scar, the resident pyromaniac
+Yo what up! the names Scar! ya internet gamer mod trying to regain motivation to draw and I am in CST time zone area. Though I am not super active on discord, but I do have it open all the time so I can help to the best of my powers if ya ever need something!
 
 https://www.twitch.tv/scardapyro
 
