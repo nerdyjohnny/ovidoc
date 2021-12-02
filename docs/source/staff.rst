@@ -29,7 +29,10 @@ nerdyjohnny
 '''''''
 .. image:: icons/sitedirector.png
 .. image:: icons/admin.png
-.. image:: icons/custodian.png 
+.. image:: icons/custodian.png
+.. image:: icons/oobvae.png
+    :width: 36px
+    :height: 36px
 Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
 
@@ -58,6 +61,9 @@ GuacuGwazii
 ''''''
 .. image:: icons/srmod.png
 .. image:: icons/cheseballs.png
+.. image:: icons/oobvae.png
+    :width: 36px
+    :height: 36px
 Gwazi, the resident shitposter.
 
 https://www.twitch.tv/guacugwazii
