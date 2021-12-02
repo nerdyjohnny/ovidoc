@@ -38,6 +38,8 @@ Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) w
 
 https://www.twitch.tv/nerdyjohnny
 
+Event: `The Oobi Invasion <https://docs.oiivae.com/en/latest/event.html#the-oobi-invasion>`_
+
 .. warning:: Johnny is a paramedic that holds North Carolina credentials and practices under medical direction from a physican and guidelines established by physican, his agency, and the North Carolina Office of Emergency Medical Services. Johnny is not here to offer medical advice or treatments. Johnny is not here to establish a patient-provider relationship. Please consult your doctor or primary care specialist for non-emergent medical advice or treatment. Please visit an emergency department or call 911 in the event of an medical emergency.
 
 
@@ -67,6 +69,10 @@ GuacuGwazii
 Gwazi, the resident shitposter.
 
 https://www.twitch.tv/guacugwazii
+
+Event: `The Cheseball Incident <https://docs.oiivae.com/en/latest/event.html#the-cheseball-incident>`_
+Event: `The Oobi Invasion <https://docs.oiivae.com/en/latest/event.html#the-oobi-invasion>`_
+
 
 Lunarese
 ''''''
