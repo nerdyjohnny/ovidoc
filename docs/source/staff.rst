@@ -71,6 +71,7 @@ Gwazi, the resident shitposter.
 https://www.twitch.tv/guacugwazii
 
 Event: `The Cheseball Incident <https://docs.oiivae.com/en/latest/event.html#the-cheseball-incident>`_
+
 Event: `The Oobi Invasion <https://docs.oiivae.com/en/latest/event.html#the-oobi-invasion>`_
 
 
