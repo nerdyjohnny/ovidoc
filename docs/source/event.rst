@@ -14,6 +14,8 @@ The Oobi Invasion
 ''''''''''
 
 .. image:: icons/oobvae.png
+    :width:: 28px
+    :height:: 28px
 
 December 1 2021: Wayyy back in the day, Johnny used to help Ovi manage her old YT account. Johnny had the great idea to prank Ovi by logging into her YT on his server and had the Oobi playlist play in the background. Johnny left it there and forgot about it. 3 months later, Ovi was in a call with her mod team at the time and was trying to figure out why Oobi was constantly being recommended. Johnny died laughing and fessed up and everyone had a good goof over it.
 
