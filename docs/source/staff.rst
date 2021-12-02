@@ -29,11 +29,16 @@ nerdyjohnny
 '''''''
 .. image:: icons/sitedirector.png
 .. image:: icons/admin.png
-.. image:: icons/custodian.png 
+.. image:: icons/custodian.png
+.. image:: icons/oobvae.png
+    :width: 36px
+    :height: 36px
 Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
 
 https://www.twitch.tv/nerdyjohnny
+
+Event: `The Oobi Invasion <https://docs.oiivae.com/en/latest/event.html#the-oobi-invasion>`_
 
 .. warning:: Johnny is a paramedic that holds North Carolina credentials and practices under medical direction from a physican and guidelines established by physican, his agency, and the North Carolina Office of Emergency Medical Services. Johnny is not here to offer medical advice or treatments. Johnny is not here to establish a patient-provider relationship. Please consult your doctor or primary care specialist for non-emergent medical advice or treatment. Please visit an emergency department or call 911 in the event of an medical emergency.
 
@@ -58,9 +63,16 @@ GuacuGwazii
 ''''''
 .. image:: icons/srmod.png
 .. image:: icons/cheseballs.png
+.. image:: icons/oobvae.png
+    :width: 36px
+    :height: 36px
 Gwazi, the resident shitposter.
 
 https://www.twitch.tv/guacugwazii
+
+Event: `The Cheseball Incident <https://docs.oiivae.com/en/latest/event.html#the-cheseball-incident>`_
+Event: `The Oobi Invasion <https://docs.oiivae.com/en/latest/event.html#the-oobi-invasion>`_
+
 
 Lunarese
 ''''''
