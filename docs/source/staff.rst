@@ -90,6 +90,15 @@ Kitt, its just Kitt.
 
 https://www.twitch.tv/sweetkitsu
 
+NomiNovaks
+''''''
+
+.. image:: icons/custodian.png 
+.. image:: icons/janitor.png
+Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
+
+https://www.twitch.tv/nominovaks
+
 Maintenance (MC)
 ```````
 These are moderators whose primary focus is the minecraft servers.
@@ -103,18 +112,6 @@ NuTzy
 hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local australian lurking in AEST . I’m usually around quite a bit given my time zone and bad sleep schedule. I’m always available for any questions and always happy to help if I can! Seeya around ❤️
 
 `https://www.twitch.tv/nutzo__ <https://www.twitch.tv/nutzo__>`_
-
-
-NomiNovaks
-''''''
-
-.. note:: Nomi is also a janitor with her primary focus being a Maintenance member.
-
-.. image:: icons/custodian.png 
-.. image:: icons/janitor.png
-Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
-
-https://www.twitch.tv/nominovaks
 
 
 Field Agent (Moderators)
