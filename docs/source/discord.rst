@@ -4,19 +4,13 @@ Discord
 Rules
 -------
 1. Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech will be tolerated.
-2. No spam or self-promotion (server invites, advertisements, etc) without permission from a staff member. This includes DMing fellow members.
-3. No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
-4. Do not ping Oiivae!
-5. **Use common sense.**
-6. If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
-7. **All users must abide by Discord and Twitch Terms of Service**
-
-Rule Clarifications
-^^^^^^^^^^
-Rule 2
-
-1. No more than 2 pics or gifs per text. You know what spamming is, dont do it
-
-2. As far as what goes in here, so long as it pertains to the convo it can pass, anything else (such as showing something off or showing a random meme) it will go in their respected channels i.e. memes or media
-
-3. Socials are allowed in your intro.
+2. No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
+3. No spamming
+4. No heavy gif use in chat
+5. Please put content in its respective channels
+6. Please use #self-promo to promote your content. Socials are allowed in your intro. Self promotion is not permitted anywhere else without approval.
+7. No server invites without approval.
+8. Do not ping Oiivae!
+9. **Use common sense.**
+10. If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
+11. **All users must abide by Discord and Twitch Terms of Service**
