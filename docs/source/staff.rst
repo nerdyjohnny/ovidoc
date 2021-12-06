@@ -17,7 +17,7 @@ https://www.twitch.tv/oiivae
 Sandhands
 '''''''
 .. image:: icons/sandhands.png
-Attorney-at-Sand. Judge, Jury, Executioner
+Attorney-at-Sand.
 
 https://www.twitch.tv/mrsandhands
 
