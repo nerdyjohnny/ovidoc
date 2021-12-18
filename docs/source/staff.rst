@@ -149,6 +149,14 @@ Yo what up! the names Scar! ya internet gamer mod trying to regain motivation to
 https://www.twitch.tv/scardapyro
 
 
+Yelatio
+''''''
+.. image:: icons/janitor.png
+Resident French Man and mod for many of Ovi's friends
+
+https://www.twitch.tv/yelatio
+
+
 
 Retired Staff
 ````````````
