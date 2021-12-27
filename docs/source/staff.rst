@@ -92,9 +92,8 @@ https://www.twitch.tv/sweetkitsu
 
 NomiNovaks
 ''''''
-
+.. image:: icons/srmod.png
 .. image:: icons/custodian.png 
-.. image:: icons/janitor.png
 Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
 
 https://www.twitch.tv/nominovaks
