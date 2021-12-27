@@ -19,7 +19,15 @@ Sandhands
 .. image:: icons/sandhands.png
 Attorney-at-Sand.
 
-https://www.twitch.tv/mrsandhands
+https://www.twitch.tv/mrsandhands 
+
+Finleaf
+'''''''
+.. image:: icons/sandhands.png
+
+Sand-at-Attorney?
+
+https://www.twitch.tv/finleaf
 
 Site Director (Senior Admin)
 ``````
