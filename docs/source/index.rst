@@ -12,6 +12,7 @@ Contents
 .. toctree::
 
    guidelines
+   twitch
    discord
    hardcore
    rp
