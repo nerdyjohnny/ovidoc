@@ -16,7 +16,7 @@ Rules
 
 Ban appeals can be submitted at using the built in appeal tool on Twitch or http://discord.gg/Erg3fCV7zh in the #support channel.
 
-If you wish to challenge the decision in the twitch appeal, open a ban appeal in the discord.
+If you wish to challenge the decision in the Twitch appeal, open a ban appeal in the discord.
 
 If you are banned from the discord and wish to appeal your ban, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
 
