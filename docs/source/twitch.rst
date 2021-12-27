@@ -11,7 +11,7 @@ Rules
 6. No backseat modding.
 7. If you are caught being a dingleberry in other people's chat, you get banned here too.
 8. **Use common sense.**
-9. If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
+9. If you see something against the rules or something that makes you feel unsafe, let staff know. We want this channel to be a welcoming space!
 10. **All users must abide by Twitch Terms of Service**
 
 Ban appeals can be submitted at using the built in appeal tool on Twtich or http://discord.gg/Erg3fCV7zh in the #support channel.
