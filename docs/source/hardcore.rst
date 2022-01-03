@@ -139,3 +139,26 @@ Augmented Hardcore
 
 ``/nextnaxhealth`` - Displays when you will recieve your next max health increase.
 
+
+DiscordSRV
+^^^^^^^^^^^
+
+``/discord link`` - Starts the process to link your MC and Discord
+
+
+
+Sub Perks
+-----------
+
+- No longer orange D-Class, you are now Purple Oiibois
+- Kits! You can use ``/kit <name>`` to access them. There is Firework, SubBuild, SubTools, and Subfarm
+- ``/anvil`` - An anvil on the go!
+- ``/workbench`` - A workbench on the go!
+- A total of 7 /homeslots
+- Move during tp requests
+- ``/compass`` - A compass
+- Colored and formatted /nicks
+- ``/skulls `` Gives you player skulls
+
+
+
