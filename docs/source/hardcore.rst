@@ -3,7 +3,6 @@ Hardcore
 
 hcmc.oiivae.com
 
-.. important:: With 1.18 slated for release on 11/30, HCMC will remain on 1.17 until Spigot updates along with the core plugins. With how this update is set up, the world may have to be regenerated. I will be working with our MC team on how we will progress with the update. 
 
 .. important:: Until we find a new plugin that auto respawns the ender dragon, request a Janitor or Custodian to respawn the dragon.
 
