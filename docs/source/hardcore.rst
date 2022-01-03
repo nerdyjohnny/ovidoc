@@ -160,4 +160,7 @@ Sub Perks
 - ``/skulls `` Gives you player skulls
 
 
+Proximity Voice
+---------------
+We are beta testing proximity voice chat. To try it out, join the Lobby channel in HCMC Voice and make sure your discord is linked with your MC. If you are near another player, it will drag the players into a channel. One a player is far enough way, it will move the players back to Lobby. If you attempt to join another HCMC voice or the Lobby while already in a voice channel in HCMC, it will drag you back. You can play the server and be in another vc with out dragging you. It will only move you if you are in the HCMC catergory.
 
