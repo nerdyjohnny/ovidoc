@@ -3,7 +3,6 @@ Hardcore
 
 hcmc.oiivae.com
 
-.. important:: With 1.18 slated for release on 11/30, HCMC will remain on 1.17 until Spigot updates along with the core plugins. With how this update is set up, the world may have to be regenerated. I will be working with our MC team on how we will progress with the update. 
 
 .. important:: Until we find a new plugin that auto respawns the ender dragon, request a Janitor or Custodian to respawn the dragon.
 
@@ -34,11 +33,11 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 12. No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content
 13. Use common sense.
 
-.. important:: Tempbans issues due to a death is non-appealable unless you are killed due to someone breaking rules. Please included this in the ban request and how many lives you had before encountering the rule breaker.
+.. important:: Tempbans issues due to a death is non-appealable unless you are killed due to someone breaking rules or due to a bug. Please included this in the ban request/ban appeal and how many lives you had before encountering the rule breaker.
 
 .. note:: Ban appeals and request can be submitted at http://discord.gg/Erg3fCV7zh in the #support  channel.
 
-.. important:: All ban appeals and requests are to be reported in #support on the discord. If you are banned from the discord, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
+.. important:: All ban appeals and requests are to be reported in #support on the discord. If you are banned from the discord, open a issue at https://github.com/OiivaeCommunity/ovicommunity/issues
 
 Staff Rules
 ^^^^^^^^^^^
@@ -138,4 +137,27 @@ Augmented Hardcore
 ``/nextlifepart`` - Displays when you will receive your next life part.
 
 ``/nextnaxhealth`` - Displays when you will recieve your next max health increase.
+
+
+DiscordSRV
+^^^^^^^^^^^
+
+``/discord link`` - Starts the process to link your MC and Discord
+
+
+
+Sub Perks
+-----------
+
+- No longer orange D-Class, you are now Purple Oiibois
+- Kits! You can use ``/kit <name>`` to access them. There is Firework, SubBuild, SubTools, and Subfarm
+- ``/anvil`` - An anvil on the go!
+- ``/workbench`` - A workbench on the go!
+- A total of 7 /homeslots
+- Move during tp requests
+- ``/compass`` - A compass
+- Colored and formatted /nicks
+- ``/skulls `` Gives you player skulls
+
+
 
