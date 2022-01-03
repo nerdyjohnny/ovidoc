@@ -34,11 +34,11 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 12. No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content
 13. Use common sense.
 
-.. important:: Tempbans issues due to a death is non-appealable unless you are killed due to someone breaking rules. Please included this in the ban request and how many lives you had before encountering the rule breaker.
+.. important:: Tempbans issues due to a death is non-appealable unless you are killed due to someone breaking rules or due to a bug. Please included this in the ban request/ban appeal and how many lives you had before encountering the rule breaker.
 
 .. note:: Ban appeals and request can be submitted at http://discord.gg/Erg3fCV7zh in the #support  channel.
 
-.. important:: All ban appeals and requests are to be reported in #support on the discord. If you are banned from the discord, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
+.. important:: All ban appeals and requests are to be reported in #support on the discord. If you are banned from the discord, open a issue at https://github.com/OiivaeCommunity/ovicommunity/issues
 
 Staff Rules
 ^^^^^^^^^^^
