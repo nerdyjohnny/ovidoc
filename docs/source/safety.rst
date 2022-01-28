@@ -24,7 +24,7 @@ Be careful of connecting to a Minecraft server, especially if someone asks you t
 
 Downloads
 -----------
-Do not download, run or extract any program or compressed file from a file-sharing website or an unfamiliar website (google the domain name, and make sure it is reputable). Avoid installing third-party clients and mods from non-reputable authors and websites to avoid installing malware. If a user wants you to download a program, extract a file, or turn off any antivirus program, do not do it under any circumstance. Datblock staff will never tell you to download anything. Installing malware can lead to loss of data and accounts, leaking of private information, extortion, and logging of your keyboard, microphone and web camera.
+Do not download, run or extract any program or compressed file from a file-sharing website or an unfamiliar website (google the domain name, and make sure it is reputable). Avoid installing third-party clients and mods from non-reputable authors and websites to avoid installing malware. If a user wants you to download a program, extract a file, or turn off any antivirus program, do not do it under any circumstance. Oiivae staff will never tell you to download anything. Installing malware can lead to loss of data and accounts, leaking of private information, extortion, and logging of your keyboard, microphone and web camera.
 
 Assessing threats
 -----------
