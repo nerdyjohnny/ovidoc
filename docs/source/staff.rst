@@ -108,11 +108,11 @@ Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm m
 
 https://www.twitch.tv/nominovaks
 
-Maintenance (MC)
+Maintenance (Game Moderators)
 ```````
-These are moderators whose primary focus is the minecraft servers.
+These are moderators whose primary focus is the game servers.
 
-NuTzy
+NuTzy (MC)
 ''''''
 
 .. note:: NuTzy is the head builder for the MC servers.
@@ -121,6 +121,12 @@ NuTzy
 hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local australian lurking in AEST . I’m usually around quite a bit given my time zone and bad sleep schedule. I’m always available for any questions and always happy to help if I can! Seeya around ❤️
 
 `https://www.twitch.tv/nutzo__ <https://www.twitch.tv/nutzo__>`_
+
+Anic (PZ)
+''''''
+
+.. image:: icons/pzmaintenance.png
+Hey there, its me Anic! I'm in EST and im pretty active here on discord, so give me an @ if you need anything. I use He/Him pronouns and you can visit my twitter in my profile!
 
 
 Field Agent (Moderators)
