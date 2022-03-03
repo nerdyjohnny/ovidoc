@@ -126,6 +126,7 @@ Anic (PZ)
 ''''''
 
 .. image:: icons/pzmaintenance.png
+
 Hey there, its me Anic! I'm in EST and im pretty active here on discord, so give me an @ if you need anything. I use He/Him pronouns and you can visit my twitter in my profile!
 
 https://www.twitch.tv/anic422
