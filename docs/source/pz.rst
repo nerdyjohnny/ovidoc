@@ -23,10 +23,10 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 
 5. Spawn camping is not allowed.
 6. Building/Basing is not allowed near spawn areas, against World boundries or in Out of Bounds area.
-8. Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech will be tolerated.
-9. No spam or self-promotion (server invites, advertisements, etc) without permission from a staff member. This includes DMing fellow members.
-10. No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content
-11. Use common sense.
+7. Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech will be tolerated.
+8. No spam or self-promotion (server invites, advertisements, etc) without permission from a staff member. This includes DMing fellow members.
+9. No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content
+10. Use common sense.
 
 .. note:: Ban appeals and request can be submitted at http://discord.gg/Erg3fCV7zh in the #support  channel.
 
