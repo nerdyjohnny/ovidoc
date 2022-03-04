@@ -42,7 +42,7 @@ Deathmatching (DM)
 2. Do not ram others with your vehicle, that's still considered as a death match unless that person is posing a threat to your character's life. 
 3. Killing someone with a misfire is not considered as death matching It happens sometimes. Exploiting this rule to commit constant deathmatching will lead to a permanent ban from the server. 
 
-.. warn:: Punishment: Jailed for 20 minutes, multiple offenses will increase jail time also resulting in a ban.
+.. warning:: Punishment: Jailed for 20 minutes, multiple offenses will increase jail time also resulting in a ban.
 
 Fear RP (NVL - No Value to Life)
 ^^^^^^^^^
@@ -51,7 +51,7 @@ Fear RP (NVL - No Value to Life)
 3. Putting yourself in the line of danger without a reasonable explanation for risking your life or another player's life, Is considered Fail RP. 
 4. If a weapon is already drawn from both parties it will not be considered Fail Fear RP.
 
-.. warn:: Punishment: Jailed for 10 minutes, multiple offenses will increase jail time also resulting in a ban.
+.. warning:: Punishment: Jailed for 10 minutes, multiple offenses will increase jail time also resulting in a ban.
 
 
 Staff Rules
