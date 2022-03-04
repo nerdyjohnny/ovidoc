@@ -28,7 +28,7 @@ As much we want this to be a lawless land like in DayZ, there is still some grou
 9. No NSFW or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content
 10. Use common sense.
 
-.. note:: Ban appeals and request can be submitted at http://discord.gg/Erg3fCV7zh in the #support  channel.
+.. note:: Ban appeals and request can be submitted at http://discord.gg/Erg3fCV7zh in the #support channel.
 
 .. important:: All ban appeals and requests are to be reported in #support on the discord. If you are banned from the discord, open a issue at https://github.com/OiivaeCommunity/ovicommunity/issues
 
@@ -84,7 +84,7 @@ New Life Rule (NLR)
 4. Engaging in hostile RP within 30 min after re-spawning with the same person/group that killed you, or the same person/group you just killed, is considered Revenge RP. 
 5. You are not allowed to kill the same person twice for the same reason, that means that both characters shouldn't know each other if one of them got killed by one or the other. [Example: John kills Rick > John finds Rick and kills him again for the same reason] 
 
-.. warning:: Jailed for 10 minutes, multiple offenses will increase jail time also resulting in a ban. 
+.. warning:: Punishment: Jailed for 10 minutes, multiple offenses will increase jail time also resulting in a ban. 
 
 Staff Rules
 ------
