@@ -53,6 +53,38 @@ Fear RP (NVL - No Value to Life)
 
 .. warning:: Punishment: Jailed for 10 minutes, multiple offenses will increase jail time also resulting in a ban.
 
+Claims
+^^^^^
+1. You must not claim more than 1 house.
+2. You must not horde a house for loot spawns. 
+3. You must not take a PD, huge building, or anything normal players need to loot to survive. Ask for approval if you're worried about claiming.
+
+Communications
+^^^^
+1. Use emotes lines to express your actions during roleplay, it's always great to have detailed roleplay during a scene. 
+2. You must be able to understand and effectively communicate English and use it as your primary language. However, you are allowed to incorporate other languages with your character. 
+3. You must remain in-character at all times while on the server. This includes any form of voice or text communication. At times, a staff member may address you out-of-character to address issues or concerns. This is the only time it will be acceptable to be out-of-character while on the server. 
+4. Your characters are not able to have or obtain detailed knowledge of your other character's interactions. You may only have a general knowledge of another character's existence or general storyline. You may also not transfer anything between your characters. (powergaming/metagaming) 
+5. Reasonable voice changers may be used to mask the characters voice when committing crimes. Reasonable is up to the discretion of the staff. 
+6. Always report any offenses to the staff either in-game.
+
+Powergaming
+^^^^
+1. This is the act of forcing or gaining an unrealistic, unfair, or impossible action over another player without giving them an opportunity to interact, defend, or escape the situation. 
+2. Any act that causes the player to be able to avoid use of items etc. Will be considered power gaming. 
+3. If while being incapicated or prisoned or held off your freedom during a robbery for example, you don't escape, this server is not about winning every roleplay scene, it's all about having fun and accepting your fate. 
+
+.. warning:: Punishment: Jailed for 10 minutes, multiple offenses will increase jail time also resulting in a ban.
+
+New Life Rule (NLR)
+^^^^
+1. Basically, when your character dies the memory of the events that lead to their death is to be wiped out. [Simple Example: John kills Rick > Rick Respawns > Rick's memory of John and the incident that got him killed is to be wiped out > Rick sees John and doesn't recognize him and etc] 
+2. You are not allowed to visit the same location of your death within the 30 minutes cooldown period. 
+3. Revenge RP is not allowed if you re-spawned. 
+4. Engaging in hostile RP within 30 min after re-spawning with the same person/group that killed you, or the same person/group you just killed, is considered Revenge RP. 
+5. You are not allowed to kill the same person twice for the same reason, that means that both characters shouldn't know each other if one of them got killed by one or the other. [Example: John kills Rick > John finds Rick and kills him again for the same reason] 
+
+.. warning:: Jailed for 10 minutes, multiple offenses will increase jail time also resulting in a ban. 
 
 Staff Rules
 ------
