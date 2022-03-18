@@ -104,9 +104,9 @@ Staff is held to a standard and expected to follow the rules in order to enforce
 
 1. Staff will not use their moderation powers outside of performing staff duties.
 2. Staff is allowed to use build and mechanic cheat modes to establish RP scenes only.
-7. No favoritism towards players. All players should be treated equally and fairly.
-8. Respond to requests for service via the Tickets spawned from #support in a timely manner.
-9. Use common sense.
+3. No favoritism towards players. All players should be treated equally and fairly.
+4. Respond to requests for service via the Tickets spawned from #support in a timely manner.
+5. Use common sense.
 
 .. important:: If you see a staff member breaking any of these rules, open a Staff Complaint in #support in the discord. http://discord.gg/Erg3fCV7zh 
 
