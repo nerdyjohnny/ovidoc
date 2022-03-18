@@ -83,20 +83,27 @@ New Life Rule (NLR)
 3. Revenge RP is not allowed if you re-spawned. 
 4. Engaging in hostile RP within 30 min after re-spawning with the same person/group that killed you, or the same person/group you just killed, is considered Revenge RP. 
 5. You are not allowed to kill the same person twice for the same reason, that means that both characters shouldn't know each other if one of them got killed by one or the other. [Example: John kills Rick > John finds Rick and kills him again for the same reason] 
+6. If your character is highly important an on-going event and was accidently killed, the character may be "revived" with staff approval. If the character is killed due to not valuing your life, the character will be declared deceased.
 
 .. warning:: Punishment: Jailed for 10 minutes, multiple offenses will increase jail time also resulting in a ban. 
+
+Factions
+^^^^
+1. All faction names must be appropriately named and lore friendly.
+2. All factions must have a name tag enabled.
+3. Interfactiong PVP was be enabled.
+4. All factions must have a Bio post in the #pz-factions-info channel.
+
+.. warning:: Faction's failing to follow the rules will be disbanded.
+
 
 Staff Rules
 ------
 
 Staff is held to a standard and expected to follow the rules in order to enforce them. Staff are required to follow these extra set of rules in order to maintain moderation powers on the server.
 
-1. Gamemode must be set to survival unless performing moderation tasks.
-2. No using creative or ``/give`` to supply self for survival gameplay.
-3. No using ``/tp`` to obtain information on players outside of moderation. (i.e. No teleporting to players to obtaining coords to their base.)
-4. No using ``/fly`` or ``/god`` during survival gameplay.
-5. No using any commands that normal players don't have access to that creates an unfair advantage. 
-6. Staff is encouraged to use ``/v`` or ``/gm spectator`` while spectating players in the moderation setting.
+1. Staff will not use their moderation powers outside of performing staff duties.
+2. Staff is allowed to use build and mechanic cheat modes to establish RP scenes only.
 7. No favoritism towards players. All players should be treated equally and fairly.
 8. Respond to requests for service via the Tickets spawned from #support in a timely manner.
 9. Use common sense.
