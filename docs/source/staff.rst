@@ -14,12 +14,6 @@ Ovi, everyones favorite keter-classed neckogecko
 
 https://www.twitch.tv/oiivae
 
-Sandhands
-'''''''
-.. image:: icons/sandhands.png
-Attorney-at-Sand.
-
-https://www.twitch.tv/mrsandhands 
 
 Finleaf
 '''''''
@@ -188,6 +182,16 @@ Its Merp
 https://www.twitch.tv/
 
 Retired: Mod Team Restructure Novmember 2021
+
+Sandhands
+'''''''
+.. image:: icons/retired.png 
+.. image:: icons/sandhands.png
+Attorney-at-Sand.
+
+https://www.twitch.tv/mrsandhands 
+
+Retired: April 7th 2022
 
 
 Special Honors
