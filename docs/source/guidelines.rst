@@ -9,6 +9,7 @@ The following is how issues are worked up the chain depending on its severity. *
 
 .. image:: icons/janitor.png
 .. image:: icons/custodian.png
+.. image:: icons/pzmaintenance.png
 .. image:: icons/srmod.png
 .. image:: icons/admin.png
 .. image:: icons/sitedirector.png
@@ -19,6 +20,11 @@ Discord/Twitch: ``Field Agent < Senior Agent (Sr. Mods) < Site Manager (Admin) <
 Minecraft (Moderation): ``Field Agent or Maintenance (MC) < Senior Agent (Sr. Mods) < Site Manager (Admin) < Site Director (Sr. Admin) < Ovi``
 
 Minecraft (Technical): ``Maintenance (MC) < Site Manager (Admin) < Site Director (Johnny)``
+
+Project Zomboid (Moderation): ``Field Agent or Maintenance (PZ) < Senior Agent (Sr. Mods) < Site Manager (Admin) < Site Director (Sr. Admin) < Ovi``
+
+Project Zomboid (Technical): ``Maintenance (PZ) < Site Director (Johnny)``
+
 
 Staff Complaints (submitted via #support): ``Senior Agent (Sr. Mods), Site Manager (Admin), Site Director (Sr. Admin), and Ovi``
 
