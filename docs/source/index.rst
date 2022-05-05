@@ -14,7 +14,6 @@ Contents
    guidelines
    twitch
    discord
-   pz
    hardcore
    rp
    safety
