@@ -32,7 +32,6 @@ nerdyjohnny
 .. image:: icons/sitedirector.png
 .. image:: icons/admin.png
 .. image:: icons/custodian.png
-.. image:: icons/pzmaintenance.png
 .. image:: icons/oobvae.png
     :width: 36px
     :height: 36px
@@ -99,7 +98,6 @@ NomiNovaks
 ''''''
 .. image:: icons/srmod.png
 .. image:: icons/custodian.png
-.. image:: icons/pzmaintenance.png
 Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
 
 https://www.twitch.tv/nominovaks
@@ -118,14 +116,7 @@ hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local aus
 
 `https://www.twitch.tv/nutzo__ <https://www.twitch.tv/nutzo__>`_
 
-Anic (PZ)
-''''''
 
-.. image:: icons/pzmaintenance.png
-
-Hey there, its me Anic! I'm in EST and im pretty active here on discord, so give me an @ if you need anything. I use He/Him pronouns and you can visit my twitter in my profile!
-
-https://www.twitch.tv/anic422
 
 Field Agent (Moderators)
 ```````
@@ -194,6 +185,17 @@ Attorney-at-Sand.
 https://www.twitch.tv/mrsandhands 
 
 Retired: April 7th 2022
+
+Anic (PZ)
+''''''
+
+.. image:: icons/pzmaintenance.png
+
+Hey there, its me Anic! I'm in EST and im pretty active here on discord, so give me an @ if you need anything. I use He/Him pronouns and you can visit my twitter in my profile!
+
+https://www.twitch.tv/anic422
+
+Retired: PZ Server Retirement May 2022
 
 
 Special Honors
