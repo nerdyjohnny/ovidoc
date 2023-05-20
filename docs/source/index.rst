@@ -14,8 +14,6 @@ Contents
    guidelines
    twitch
    discord
-   hardcore
-   rp
    safety
    staff
    event
