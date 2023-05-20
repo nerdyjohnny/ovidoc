@@ -90,6 +90,26 @@ Field Agent (Moderators)
 ```````
 The frontline moderators! 
 
+anic422
+''''''
+.. image:: icons/janitor.png
+Hey there, its me Anic! I'm in EST and im pretty active here on discord, so give me an @ if you need anything. I use He/Him pronouns and you can visit my twitter in my profile!
+
+https://www.twitch.tv/anic422
+
+vel_locity
+''''''
+.. image:: icons/janitor.png
+Hello! I'm Velnias or Vel I use they/them pronouns. I'm senior at a trade school, my program is digital arts. I'm on est or cst for summer time. I'm really glad to be joining you all!
+
+https://www.twitch.tv/vel_locity
+
+
+Secret Agent
+````````````
+They are sneaky. If you know who they are, then you know who they are
+
+
 
 
 Retired Staff
