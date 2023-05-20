@@ -31,6 +31,7 @@ nerdyjohnny
 '''''''
 .. image:: icons/sitedirector.png
 .. image:: icons/admin.png
+.. image:: icons/srmod.png
 .. image:: icons/custodian.png
 .. image:: icons/oobvae.png
     :width: 36px
@@ -48,13 +49,6 @@ Event: `The Oobi Invasion <https://docs.oiivae.com/en/latest/event.html#the-oobi
 Site Manager (Admins)
 ```````
 Senior moderators that helps with behind the scenes stuff and techincal tasks.
-
-thematbrown
-'''''
-.. image:: icons/admin.png
-Howdy, the names Matt (I also go by MJB or MJ). I'm your local Texan IT nerd. I am not as active but I have discord open almost all the time so if you need to reach out to me, just shoot me a DM or ping me.
-
-https://www.twitch.tv/thematbrown
 
 
 Senior Agent (Senior Moderators)
@@ -85,6 +79,44 @@ I'm in the EST timezones, you can feel free to ask me about anything! Remember t
 
 https://www.twitch.tv/lunarese
 
+
+Maintenance (Game Moderators)
+```````
+These are moderators whose primary focus is the game servers.
+
+
+
+Field Agent (Moderators)
+```````
+The frontline moderators! 
+
+
+
+Retired Staff
+````````````
+Here are staff that no longer apart of the team but still considered family.
+
+thematbrown
+'''''
+.. image:: icons/admin.png
+.. image:: icons/srmod.png
+Howdy, the names Matt (I also go by MJB or MJ). I'm your local Texan IT nerd. I am not as active but I have discord open almost all the time so if you need to reach out to me, just shoot me a DM or ping me.
+
+https://www.twitch.tv/thematbrown
+
+Retired: Mod Team Restructure May 2023
+
+NomiNovaks
+''''''
+.. image:: icons/admin.png
+.. image:: icons/srmod.png
+.. image:: icons/custodian.png
+Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
+
+https://www.twitch.tv/nominovaks
+
+Retired: Mod Team Restructure May 2023
+
 sweetkitsu
 '''''''
 .. image:: icons/srmod.png
@@ -94,17 +126,7 @@ I'm an artist who needs to art more lol!! I play a lot of games most of my free 
 
 https://www.twitch.tv/sweetkitsu
 
-NomiNovaks
-''''''
-.. image:: icons/srmod.png
-.. image:: icons/custodian.png
-Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
-
-https://www.twitch.tv/nominovaks
-
-Maintenance (Game Moderators)
-```````
-These are moderators whose primary focus is the game servers.
+Retired: Mod Team Restructure May 2023
 
 NuTzy (MC)
 ''''''
@@ -116,11 +138,7 @@ hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local aus
 
 `https://www.twitch.tv/nutzo__ <https://www.twitch.tv/nutzo__>`_
 
-
-
-Field Agent (Moderators)
-```````
-The frontline moderators! 
+Retired: Mod Team Restructure May 2023
 
 bird_partii
 '''''
@@ -129,12 +147,16 @@ Hi I'm Jenna, I am a mod who live in Atlantic Time (basically one hour before Ea
 
 https://www.twitch.tv/bird_partii
 
+Retired: Mod Team Restructure May 2023
+
 Yaluii
 ''''''
 .. image:: icons/janitor.png
 Heya! I'm Robyn (she/they pronouns) and I am a moderator who lives in CET timezones! Most of my socials are Yaluii, and I mostly lurk around. If you have any questions feel free to dm me, I'm usually awake when all the others aren't. Hope you enjoy your time with us!
 
 https://www.twitch.tv/yaluii
+
+Retired: Mod Team Restructure May 2023
 
 starfr3nzy
 ''''''
@@ -144,6 +166,7 @@ goooood morning campers my names star (she/her), im chilling in est, and i reall
 
 https://www.twitch.tv/starfr3nzy
 
+Retired: Mod Team Restructure May 2023
 
 ScarDaPyro
 ''''''
@@ -152,6 +175,7 @@ Yo what up! the names Scar! ya internet gamer mod trying to regain motivation to
 
 https://www.twitch.tv/scardapyro
 
+Retired: Mod Team Restructure May 2023
 
 Yelatio
 ''''''
@@ -160,11 +184,7 @@ Resident French Man and mod for many of Ovi's friends
 
 https://www.twitch.tv/yelatio
 
-
-
-Retired Staff
-````````````
-Here are staff that no longer apart of the team but still considered family.
+Retired: Mod Team Restructure May 2023
 
 Merp
 ''''''
