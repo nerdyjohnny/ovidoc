@@ -236,7 +236,7 @@ Retired: April 7th 2022
 
 Anic (PZ)
 ''''''
-
+.. image:: icons/retired.png 
 .. image:: icons/pzmaintenance.png
 
 Hey there, its me Anic! I'm in EST and im pretty active here on discord, so give me an @ if you need anything. I use He/Him pronouns and you can visit my twitter in my profile!
