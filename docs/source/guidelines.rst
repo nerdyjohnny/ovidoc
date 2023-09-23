@@ -8,7 +8,6 @@ Chain of Escalation
 The following is how issues are worked up the chain depending on its severity. **We ask that members report any complaints at the lowest end of the chain.** This ensures that all issues are handled properly.
 
 .. image:: icons/janitor.png
-.. image:: icons/custodian.png
 .. image:: icons/srmod.png
 .. image:: icons/admin.png
 .. image:: icons/sitedirector.png
@@ -16,12 +15,7 @@ The following is how issues are worked up the chain depending on its severity. *
 
 Discord/Twitch: ``Field Agent < Senior Agent (Sr. Mods) < Site Manager (Admin) < Site Director (Sr. Admin) < Ovi``
 
-Minecraft (Moderation): ``Field Agent or Maintenance (MC) < Senior Agent (Sr. Mods) < Site Manager (Admin) < Site Director (Sr. Admin) < Ovi``
-
-Minecraft (Technical): ``Maintenance (MC) < Site Manager (Admin) < Site Director (Johnny)``
-
-
-Staff Complaints (submitted via #support): ``Senior Agent (Sr. Mods), Site Manager (Admin), Site Director (Sr. Admin), and Ovi``
+Staff Complaints (submitted via #report-a-mod): ``Senior Agent (Sr. Mods), Site Manager (Admin), Site Director (Sr. Admin), and Ovi``
 
 
 Punishments
@@ -49,7 +43,7 @@ Hate Speech/Doxxing: Ban
 
 Punishment Appeals
 ``````
-Punishment/Ban appeals can be submitted at http://discord.gg/Erg3fCV7zh in the #support channel.
+Punishment/Ban appeals can be submitted at http://discord.gg/Erg3fCV7zh in the #ban-appeal channel.
 
 If you are banned from the discord and wish to appeal your ban, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
 
@@ -66,4 +60,4 @@ Staff is held to a standard and expected to follow the rules in order to enforce
 3. No abuse of powers.
 4. Use common sense.
 
-.. important:: If you see a staff member breaking any of these standards, open a Staff Complaint in #support in the discord. http://discord.gg/Erg3fCV7zh 
+.. important:: If you see a staff member breaking any of these standards, open a Staff Complaint in #report-a-mod in the discord. http://discord.gg/Erg3fCV7zh 
