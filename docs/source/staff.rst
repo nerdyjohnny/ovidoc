@@ -118,6 +118,7 @@ Here are staff that no longer apart of the team but still considered family.
 
 thematbrown
 '''''
+.. image:: icons/retired.png 
 .. image:: icons/admin.png
 .. image:: icons/srmod.png
 Howdy, the names Matt (I also go by MJB or MJ). I'm your local Texan IT nerd. I am not as active but I have discord open almost all the time so if you need to reach out to me, just shoot me a DM or ping me.
@@ -128,6 +129,7 @@ Retired: Mod Team Restructure May 2023
 
 NomiNovaks
 ''''''
+.. image:: icons/retired.png 
 .. image:: icons/admin.png
 .. image:: icons/srmod.png
 .. image:: icons/custodian.png
@@ -139,6 +141,7 @@ Retired: Mod Team Restructure May 2023
 
 sweetkitsu
 '''''''
+.. image:: icons/retired.png 
 .. image:: icons/srmod.png
 19
 I'm an artist who needs to art more lol!! I play a lot of games most of my free days but I want to get back to drawing and learning how to animate again, love meeting new friends so feel free to bother me >:))) 
@@ -152,7 +155,7 @@ NuTzy (MC)
 ''''''
 
 .. note:: NuTzy is the head builder for the MC servers.
-
+.. image:: icons/retired.png 
 .. image:: icons/custodian.png
 hullo! I’m NuTz (or Kia), I go by they/them & she pronouns. I’m ur local australian lurking in AEST . I’m usually around quite a bit given my time zone and bad sleep schedule. I’m always available for any questions and always happy to help if I can! Seeya around ❤️
 
@@ -162,6 +165,7 @@ Retired: Mod Team Restructure May 2023
 
 bird_partii
 '''''
+.. image:: icons/retired.png 
 .. image:: icons/janitor.png
 Hi I'm Jenna, I am a mod who live in Atlantic Time (basically one hour before Eastern) and I use they/them pronouns, my dms are open to all in case of anything and make sure to behave... or else :) and have fun
 
@@ -171,6 +175,7 @@ Retired: Mod Team Restructure May 2023
 
 Yaluii
 ''''''
+.. image:: icons/retired.png 
 .. image:: icons/janitor.png
 Heya! I'm Robyn (she/they pronouns) and I am a moderator who lives in CET timezones! Most of my socials are Yaluii, and I mostly lurk around. If you have any questions feel free to dm me, I'm usually awake when all the others aren't. Hope you enjoy your time with us!
 
@@ -180,6 +185,7 @@ Retired: Mod Team Restructure May 2023
 
 starfr3nzy
 ''''''
+.. image:: icons/retired.png 
 .. image:: icons/janitor.png
 .. image:: icons/cheseballs.png
 goooood morning campers my names star (she/her), im chilling in est, and i really enjoy la croix, please send me a dm if you like la croix they all think I’m crazy please tell me someone likes la croix please plea
@@ -190,6 +196,7 @@ Retired: Mod Team Restructure May 2023
 
 ScarDaPyro
 ''''''
+.. image:: icons/retired.png 
 .. image:: icons/janitor.png
 Yo what up! the names Scar! ya internet gamer mod trying to regain motivation to draw and I am in CST time zone area. Though I am not super active on discord, but I do have it open all the time so I can help to the best of my powers if ya ever need something!
 
@@ -199,6 +206,7 @@ Retired: Mod Team Restructure May 2023
 
 Yelatio
 ''''''
+.. image:: icons/retired.png 
 .. image:: icons/janitor.png
 Resident French Man and mod for many of Ovi's friends
 
