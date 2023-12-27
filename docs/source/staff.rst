@@ -22,7 +22,6 @@ Manages the moderation team and behind the scenes stuff
 nerdyjohnny
 '''''''
 .. image:: icons/sitedirector.png
-.. image:: icons/admin.png
 .. image:: icons/srmod.png
 .. image:: icons/custodian.png
 .. image:: icons/oobvae.png
@@ -41,6 +40,8 @@ Event: `The Oobi Invasion <https://docs.oiivae.com/en/latest/event.html#the-oobi
 sweetkitsu
 '''''''
 .. image:: icons/sitedirector.png
+.. image:: icons/srmod.png
+.. image:: icons/custodian.png
 I'm an artist who needs to art more lol!! I play a lot of games most of my free days but I want to get back to drawing and learning how to animate again, love meeting new friends so feel free to bother me >:))) 
 (i may be pst time but i never sleep)
 
