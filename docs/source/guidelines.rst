@@ -9,13 +9,12 @@ The following is how issues are worked up the chain depending on its severity. *
 
 .. image:: icons/janitor.png
 .. image:: icons/srmod.png
-.. image:: icons/admin.png
 .. image:: icons/sitedirector.png
 .. image:: icons/ovi.png
 
-Discord/Twitch: ``Field Agent < Senior Agent (Sr. Mods) < Site Manager (Admin) < Site Director (Sr. Admin) < Ovi``
+Discord/Twitch: ``Moderators > Senior Moderators > Administrative Team > Ovi``
 
-Staff Complaints (submitted via #report-a-mod): ``Senior Agent (Sr. Mods), Site Manager (Admin), Site Director (Sr. Admin), and Ovi``
+Staff Complaints (submitted via #report-a-mod): ``Senior Moderators > Administrative Team > Ovi``
 
 
 Punishments
