@@ -2,7 +2,7 @@ Staff
 ========
 Welcome! Here you can read a bit about the staff here.
 
-Site Council 
+Big Dawg
 ````````
 The bigshot cryptids
 
@@ -15,17 +15,9 @@ Ovi, everyones favorite keter-classed neckogecko
 https://www.twitch.tv/oiivae
 
 
-Finleaf
-'''''''
-.. image:: icons/sandhands.png
-
-Sand-at-Attorney?
-
-https://www.twitch.tv/finleaf
-
-Site Director (Senior Admin)
+Administrative Team
 ``````
-Most senior moderator. Manages the moderation team and behind the scenes stuff
+Manages the moderation team and behind the scenes stuff
 
 nerdyjohnny
 '''''''
@@ -36,7 +28,7 @@ nerdyjohnny
 .. image:: icons/oobvae.png
     :width: 36px
     :height: 36px
-Johnny, 23, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
+Johnny, 25, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
 
 https://www.twitch.tv/nerdyjohnny
@@ -46,12 +38,15 @@ Event: `The Oobi Invasion <https://docs.oiivae.com/en/latest/event.html#the-oobi
 .. warning:: Johnny is a paramedic that holds North Carolina credentials and practices under medical direction from a physican and guidelines established by physican, his agency, and the North Carolina Office of Emergency Medical Services. Johnny is not here to offer medical advice or treatments. Johnny is not here to establish a patient-provider relationship. Please consult your doctor or primary care specialist for non-emergent medical advice or treatment. Please visit an emergency department or call 911 in the event of an medical emergency.
 
 
-Site Manager (Admins)
-```````
-Senior moderators that helps with behind the scenes stuff and techincal tasks.
+sweetkitsu
+'''''''
+.. image:: icons/sitedirector.png
+I'm an artist who needs to art more lol!! I play a lot of games most of my free days but I want to get back to drawing and learning how to animate again, love meeting new friends so feel free to bother me >:))) 
+(i may be pst time but i never sleep)
 
+https://www.twitch.tv/sweetkitsu
 
-Senior Agent (Senior Moderators)
+Senior Moderators
 ````````
 These are the mods that have more experience and expect to be a in a supervisory role.
 
@@ -90,19 +85,7 @@ Field Agent (Moderators)
 ```````
 The frontline moderators! 
 
-anic422
-''''''
-.. image:: icons/janitor.png
-Hey there, its me Anic! I'm in EST and im pretty active here on discord, so give me an @ if you need anything. I use He/Him pronouns and you can visit my twitter in my profile!
 
-https://www.twitch.tv/anic422
-
-vel_locity
-''''''
-.. image:: icons/janitor.png
-Hello! I'm Velnias or Vel I use they/them pronouns. I'm senior at a trade school, my program is digital arts. I'm on est or cst for summer time. I'm really glad to be joining you all!
-
-https://www.twitch.tv/vel_locity
 
 
 Secret Agent
@@ -136,18 +119,6 @@ NomiNovaks
 Hiyooo!! My name is Nomi {she/her}, I’m quite active here so feel free to dm me! EST is where I stay. If you have any questions my dms are always open :D enjoy yourself here!!!
 
 https://www.twitch.tv/nominovaks
-
-Retired: Mod Team Restructure May 2023
-
-sweetkitsu
-'''''''
-.. image:: icons/retired.png 
-.. image:: icons/srmod.png
-19
-I'm an artist who needs to art more lol!! I play a lot of games most of my free days but I want to get back to drawing and learning how to animate again, love meeting new friends so feel free to bother me >:))) 
-(i may be pst time but i never sleep)
-
-https://www.twitch.tv/sweetkitsu
 
 Retired: Mod Team Restructure May 2023
 
@@ -244,6 +215,28 @@ Hey there, its me Anic! I'm in EST and im pretty active here on discord, so give
 https://www.twitch.tv/anic422
 
 Retired: PZ Server Retirement May 2022
+
+anic422
+''''''
+.. image:: icons/retired.png 
+.. image:: icons/janitor.png
+Hey there, its me Anic! I'm in EST and im pretty active here on discord, so give me an @ if you need anything. I use He/Him pronouns and you can visit my twitter in my profile!
+
+https://www.twitch.tv/anic422
+
+Retired: Mod Team Restructure Christmas 2023
+
+vel_locity
+''''''
+.. image:: icons/retired.png 
+.. image:: icons/janitor.png
+Hello! I'm Velnias or Vel I use they/them pronouns. I'm senior at a trade school, my program is digital arts. I'm on est or cst for summer time. I'm really glad to be joining you all!
+
+https://www.twitch.tv/vel_locity
+
+Retired: Mod Team Restructure Christmas 2023
+
+
 
 
 Special Honors
