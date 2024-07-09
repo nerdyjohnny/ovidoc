@@ -1,0 +1,23 @@
+.. tabs::
+
+    .. tab:: Sphinx
+
+        If your project uses Sphinx,
+        we offer a special builder optimized for Sphinx projects.
+
+        .. literalinclude:: /config-file/examples/sphinx/.readthedocs.yaml
+           :language: yaml
+           :linenos:
+           :caption: .readthedocs.yaml
+
+.. seealso::
+
+   :ref:`guides/reproducible-builds:Use a requirements file for Python dependencies`
+      This guide explains how to specify Python requirements,
+      such as the version of Sphinx or MkDocs.
+
+   :ref:`config-file/v2:sphinx`
+     Configuration file reference for configuring the Sphinx builder.
+
+   :ref:`config-file/v2:mkdocs`
+     Configuration file reference for configuring the MkDocs builder.
